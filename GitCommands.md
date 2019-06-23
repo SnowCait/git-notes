@@ -4,7 +4,7 @@
 
 ### ローカル
 ```
-git branch --merged | grep -v \* | xargs git branch -d
+git branch --merged | grep -v \* | grep -v master | xargs git branch -d
 ```
 
 ### リモート
