@@ -14,6 +14,7 @@
   - Windows 系のファイル（バッチファイル等）が含まれていなければ `input` でも可
   - `true` にするメリットは特にない
     - 仮想環境でシェルスクリプトを動かそうとしたときに CRLF になって動かない
+  - [.gitattributesで改行コードの扱いを制御する](https://qiita.com/nacam403/items/23511637335fc221bba2)
 - `core.ignorecase`
   - `false` にしておいた方が無難
   - ファイルは `git mv -f file.txt File.txt` で変更できる
