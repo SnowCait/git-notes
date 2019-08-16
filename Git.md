@@ -34,3 +34,7 @@
 
 ## パッチ
 - [Git で変更を patch ファイルにする / patch コマンドで適用する](https://qiita.com/sea_mountain/items/7d9c812e68a26bd1a292)
+
+## メンテナンス
+- [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
+  - [BFGを使用するにあたって色々調べてみた](http://yuki10.hatenablog.com/entry/2017/01/14/211430)
