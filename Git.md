@@ -38,3 +38,9 @@
 ## メンテナンス
 - [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
   - [BFGを使用するにあたって色々調べてみた](http://yuki10.hatenablog.com/entry/2017/01/14/211430)
+
+## 推奨ルール
+- 基本的に force push はしない
+  - 履歴が改変されてしまう
+    - コミットハッシュが変わる
+    - レビューコメントに対する修正差分が分からなくなる
