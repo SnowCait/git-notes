@@ -12,3 +12,6 @@ GitHub を拡張できる。
 
 ## Zube.io
 - [スクラム向けプロジェクトマネジメントツールを比較した結果 Zube.io を推してみる - Witch on the Other Shore](https://iktakahiro.hatenablog.com/entry/2018/07/12/192213)
+
+## Slack
+- [無料になった Pull Panda を GitHub に導入すると、Pull Requestのやり取りが自動化されて便利に！！ ｜ DevelopersIO](https://dev.classmethod.jp/tool/github/happy-pull-panda/)
