@@ -2,7 +2,7 @@
 
 ## 設定
 - Branch protection
-  - を設定すると force push 禁止になる
+  - 設定すると force push 禁止になる
   - レビュー必須にできる `Require pull request reviews before merging`
   - status check に通っていることを必須にできる `Require status checks to pass before merging`
 
