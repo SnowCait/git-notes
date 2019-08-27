@@ -21,3 +21,18 @@ GitHub を拡張できる。
 
 ## Slack
 - [無料になった Pull Panda を GitHub に導入すると、Pull Requestのやり取りが自動化されて便利に！！ ｜ DevelopersIO](https://dev.classmethod.jp/tool/github/happy-pull-panda/)
+
+## GitHub Enterprise
+### メリット
+- 社内ネットワークに置ける
+- マネジメントコンソールで設定をいじれる
+  - LDAP, SAML, CAS
+  - Repository upload limit `100MB -> 1GB`
+
+### デメリット
+- メンテナンスコストがかかる
+- 機能追加がとても遅いので最新機能を使えない
+  - Suggestion
+  - Re-request review
+  - Viewed
+ 
