@@ -20,6 +20,8 @@ GitHub を拡張できる。
 - [スクラム向けプロジェクトマネジメントツールを比較した結果 Zube.io を推してみる - Witch on the Other Shore](https://iktakahiro.hatenablog.com/entry/2018/07/12/192213)
 
 ## Slack
+- [GitHub | Slack App ディレクトリ](https://by-black.slack.com/apps/A8GBNUWU8-github)
+  - [GitHub Enterprise Server | Slack App ディレクトリ](https://by-black.slack.com/apps/A0F7YS2SX-github-enterprise-server)
 - [無料になった Pull Panda を GitHub に導入すると、Pull Requestのやり取りが自動化されて便利に！！ ｜ DevelopersIO](https://dev.classmethod.jp/tool/github/happy-pull-panda/)
 
 ## GitHub Enterprise
