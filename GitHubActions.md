@@ -10,3 +10,11 @@
 ## 参考
 - [GitHub Actions(v2)ファーストインプレッション 〜v1との違い、導入方法、価格、良い点・悪い点〜 - Hack Your Design!](https://blog.toshimaru.net/github-actions-first-impression/)
 - [新 GitHub Actions 入門 - 生産性向上ブログ](https://www.kaizenprogrammer.com/entry/2019/08/18/205010)
+
+## Idea
+- 全員または一定数が Approve したらマージ
+  - 全員
+    - マージしたくないケースもあると思うので input で指定されるアカウントが assign されている場合に限定する
+    - 指定されなかったら常にマージ
+  - 一定数
+    - 特定の人のレビューを必須にしたい場合は assign にも設定してレビューが終わっていることを確認する
