@@ -20,3 +20,4 @@
     - 特定の人のレビューを必須にしたい場合は assign にも設定してレビューが終わっていることを確認する
   - input
     - account: @SnowCait
+    - min: 0 `auto merge`, null `all approved`
