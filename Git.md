@@ -8,6 +8,8 @@
 - GitKraken
 - Fork
 - [Jasper](https://jasperapp.io/)
+- [gmaster](https://gmaster.io/)
+- [Sublime Merge](https://www.sublimemerge.com/)
 
 ### コマンドライン
 - 基本
