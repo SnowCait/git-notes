@@ -33,3 +33,4 @@
   - 特定のラベルが付いていたらマージボタンを非アクティブにする
     - `WIP`, `作業中`
   - [WIP · Actions · GitHub Marketplace](https://github.com/marketplace/actions/wip) のラベル版
+- あるブランチにマージされたら別のブランチにもマージする
