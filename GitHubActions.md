@@ -23,3 +23,6 @@
   - input
     - account: @SnowCait
     - min: 0 `auto merge`, null `all approved`
+- do-not-merge-labels
+  - 特定のラベルが付いていたらマージボタンを非アクティブにする
+    - `WIP`, `作業中`
