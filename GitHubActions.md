@@ -13,6 +13,12 @@
 - [GitHub Actions(v2)ファーストインプレッション 〜v1との違い、導入方法、価格、良い点・悪い点〜 - Hack Your Design!](https://blog.toshimaru.net/github-actions-first-impression/)
 - [新 GitHub Actions 入門 - 生産性向上ブログ](https://www.kaizenprogrammer.com/entry/2019/08/18/205010)
 
+## Templates
+自作する際のテンプレート。
+- [actions/hello-world-docker-action: A template to demonstrate how to build a JavaScript action.](https://github.com/actions/hello-world-docker-action)
+- [actions/javascript-action: Create a JavaScript Action with tests, linting, workflow, publishing, and versioning](https://github.com/actions/javascript-action)
+- [actions/typescript-action](https://github.com/actions/typescript-action)
+
 ## Idea
 - 全員または一定数が Approve したらマージ
   - 全員
