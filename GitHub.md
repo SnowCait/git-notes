@@ -6,6 +6,10 @@
   - レビュー必須にできる `Require pull request reviews before merging`
   - status check に通っていることを必須にできる `Require status checks to pass before merging`
 
+## Authentication
+### OAuth (Personal Access Token)
+- [Dockerfileのbuildで簡単にGithubのプライベートリポジトリをクローンする方法 - Qiita](https://qiita.com/Jah524/items/fa68f99c8b787f94b884)
+
 ## Marketplace
 - [dependabot](https://github.com/marketplace/dependabot-preview)
 - [delete-merged-branch](https://github.com/apps/delete-merged-branch/)
