@@ -19,6 +19,10 @@
 - [actions/javascript-action: Create a JavaScript Action with tests, linting, workflow, publishing, and versioning](https://github.com/actions/javascript-action)
 - [actions/typescript-action](https://github.com/actions/typescript-action)
 
+## 足りていないもの
+- 手動トリガー
+  - デプロイ等に使いたい
+
 ## Idea
 - 全員または一定数が Approve したらマージ
   - 全員
