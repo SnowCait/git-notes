@@ -4,7 +4,9 @@
 - [Features • GitHub Actions](https://github.com/features/actions)
 - [GitHub アクションでワークフローを自動化する - GitHub ヘルプ](https://help.github.com/ja/categories/automating-your-workflow-with-github-actions)
 - [GitHub Marketplace · Actions to improve your workflow](https://github.com/marketplace?type=actions)
-- [GitHub Actions now supports CI/CD, free for public repositories](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/)
+- blog
+  - [GitHub Actions now supports CI/CD, free for public repositories](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/)
+  - [New workflow editor for GitHub Actions - The GitHub Blog](https://github.blog/2019-10-01-new-workflow-editor-for-github-actions/?utm_campaign=1569944972&utm_medium=social&utm_source=twitter&utm_content=1569944972)
 
 ## 便利 Actions
 - Slack
