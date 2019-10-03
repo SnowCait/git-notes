@@ -34,6 +34,7 @@
 ## 巨大リポジトリを扱う方法
 一般的なクラウド CI サービスはまず git clone を行う。しかし巨大リポジトリだとそこで数十分～数時間かかってしまい CI に支障をきたす。  
 Jenkins の場合ワーキングディレクトリが使いまわされるので予め並列実行数分 git clone しておくなどの対策がとれるがクラウド CI サービスでは難しい。
+- リポジトリを分割する
 - git clone したディレクトリをキャッシュ
 - Git LFS
 - [VFS for Git](https://www.learning-diary.com/posts/20190321-try-vfs-for-git/)
