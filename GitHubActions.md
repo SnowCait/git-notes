@@ -72,3 +72,7 @@ Jenkins の場合ワーキングディレクトリが使いまわされるので
   - テストスイート単位で分割してマトリックスビルド
   - MySQL へアクセスする場合はコンテナの設定が必要
     - マトリックスビルドすればそれぞれに MySQL が立つので干渉はしないはず
+- LGTM Approve
+  - コメントに `LGTM` と書いたら Approve する
+- GitHub API
+  - GitHub API wrapper
