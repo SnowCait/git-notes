@@ -28,6 +28,7 @@
 - [actions/hello-world-docker-action: A template to demonstrate how to build a JavaScript action.](https://github.com/actions/hello-world-docker-action)
 - [actions/javascript-action: Create a JavaScript Action with tests, linting, workflow, publishing, and versioning](https://github.com/actions/javascript-action)
 - [actions/typescript-action](https://github.com/actions/typescript-action)
+- [ブログズミ: GitHub Actions で [ci skip] できるようにしました](https://srz-zumix.blogspot.com/2019/10/github-actions-ci-skip.html)
 
 ## 足りていないもの
 - 手動トリガー
