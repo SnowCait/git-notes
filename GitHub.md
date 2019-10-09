@@ -12,6 +12,7 @@
 
 ## Marketplace
 - [dependabot](https://github.com/marketplace/dependabot-preview)
+- [Renovate | Automated Dependency Updates](https://renovatebot.com/)
 - [delete-merged-branch](https://github.com/apps/delete-merged-branch/)
 
 ## ZenHub
