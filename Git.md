@@ -45,6 +45,9 @@
   - ファイルは `git mv -f file.txt File.txt` で変更できる
   - ディレクトリは一度別名にするしかなさそう
 
+## SSH
+- [git clone 時に秘密鍵を指定する - Qiita](https://qiita.com/sonots/items/826b90b085f294f93acf)
+
 ## SVN との比較
 
 ### メリット
