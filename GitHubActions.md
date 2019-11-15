@@ -26,7 +26,10 @@
 - [新 GitHub Actions 入門 - 生産性向上ブログ](https://www.kaizenprogrammer.com/entry/2019/08/18/205010)
 - [GitHub Actionsの使い方 | 純規の暇人趣味ブログ](https://jyn.jp/github-actions-usage/)
 
-## Templates
+## Action の作り方
+- [GitHub Actions の JavaScript Action を TypeScript で書いた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/15/212713)
+
+### Templates
 自作する際のテンプレート。
 - [actions/hello-world-docker-action: A template to demonstrate how to build a JavaScript action.](https://github.com/actions/hello-world-docker-action)
 - [actions/javascript-action: Create a JavaScript Action with tests, linting, workflow, publishing, and versioning](https://github.com/actions/javascript-action)
