@@ -12,6 +12,7 @@
 - [microsoft/azure-pipelines-image-generation: Azure Pipelines VM image generation for Microsoft-hosted CI/CD](https://github.com/microsoft/azure-pipelines-image-generation)
 
 ## 便利 Actions
+- [AWS for GitHub Actions](https://github.com/aws-actions)
 - Slack
   - [Slatify · Actions · GitHub Marketplace](https://github.com/marketplace/actions/slatify)
   - [GitHub Actions(beta)向けにslack通知プラグインを作った - 839の日記](https://839.hateblo.jp/entry/2019/08/16/104624)
