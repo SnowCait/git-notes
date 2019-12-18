@@ -44,6 +44,9 @@
   - `false` にしておいた方が無難
   - ファイルは `git mv -f file.txt File.txt` で変更できる
   - ディレクトリは一度別名にするしかなさそう
+- `core.pager`
+  - Windows 環境で日本語が文字化けする場合は `git config --global core.pager "LESSCHARSET=utf-8 less"`
+  - [git diff や git status での日本語の文字化けを防ぐ | まくまくGitノート](https://maku77.github.io/git/settings/garbling.html)
 
 ## SSH
 - [git clone 時に秘密鍵を指定する - Qiita](https://qiita.com/sonots/items/826b90b085f294f93acf)
