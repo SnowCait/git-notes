@@ -15,6 +15,9 @@
 - [Renovate | Automated Dependency Updates](https://renovatebot.com/)
 - [delete-merged-branch](https://github.com/apps/delete-merged-branch/)
 
+## Issue / Pull request
+- [Issue およびプルリクエストを検索する - GitHub ヘルプ](https://help.github.com/ja/github/searching-for-information-on-github/searching-issues-and-pull-requests)
+
 ## ZenHub
 GitHub を拡張できる。
 - [ZenHub - Agile Project Management for GitHub](https://www.zenhub.com/)
