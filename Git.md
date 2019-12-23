@@ -83,5 +83,8 @@
 - `git clone` が重い
 - `git status` が重い
 
+### 対策
+- [明日から出来る重い Gitレポジトリへの対抗策 - Qiita](https://qiita.com/aeroastro/items/9ed7a41f52362b31a01c)
+
 ### 関連
 https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%A4%A7%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95
