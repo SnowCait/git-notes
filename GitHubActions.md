@@ -8,6 +8,7 @@
   - [GitHub Actions now supports CI/CD, free for public repositories](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/)
   - [New workflow editor for GitHub Actions - The GitHub Blog](https://github.blog/2019-10-01-new-workflow-editor-for-github-actions/?utm_campaign=1569944972&utm_medium=social&utm_source=twitter&utm_content=1569944972)
   - [GitHub Actions - new workflow syntax features - The GitHub Blog](https://github.blog/changelog/2019-10-01-github-actions-new-workflow-syntax-features/)
+  - [Working with GitHub Actions | Jeff Rafter](https://jeffrafter.com/working-with-github-actions/)
 - [GitHub Actions - GitHub Community Forum](https://github.community/t5/GitHub-Actions/bd-p/actions)
 - [microsoft/azure-pipelines-image-generation: Azure Pipelines VM image generation for Microsoft-hosted CI/CD](https://github.com/microsoft/azure-pipelines-image-generation)
 
