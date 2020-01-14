@@ -21,7 +21,7 @@ OpenSSH_for_Windows_7.7p1, LibreSSL 2.6.5
 #### 解決策
 Warning なので無視できます。
 
-対応する場合は下記。
+対応する場合は下記。  
 [SSH - ssh_agentを使用すると、署名タイプが違うとエラー｜teratail](https://teratail.com/questions/210616)  
 
 1. [設定] > [アプリ] > [アプリと機能] > [オプション機能の管理] から OpenSSH クライアントをアンインストール
@@ -37,3 +37,7 @@ fatal: unable to fork
 ```
 4. 環境変数 `GIT_SSH` に `C:\Program Files\OpenSSH-Win64\ssh.exe` を設定する
 （プリインストールの ssh を使っていた場合は `C:\Windows\System32\OpenSSH\ssh.exe` を設定しているはず）
+5. この状態だとエラー（未解決）
+```powershell
+agent key RSA SHA256:[hash] returned incorrect signature type
+```
