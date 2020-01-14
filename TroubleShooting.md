@@ -41,3 +41,7 @@ fatal: unable to fork
 ```powershell
 agent key RSA SHA256:[hash] returned incorrect signature type
 ```
+
+### fatal: early EOF
+
+[GitでCloneしようとするとearly EOFエラーが発生した - Qiita](https://qiita.com/cacahuatl/items/4d763e98f3934e3569ca)
