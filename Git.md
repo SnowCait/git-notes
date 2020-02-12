@@ -89,3 +89,6 @@
 
 ### 関連
 https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%A4%A7%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95
+
+## Sparse checkout
+- [git sparse checkout で clone せずに一部のサブディレクトリだけを pull/checkout する](https://mseeeen.msen.jp/git-sparse-checkout/)
