@@ -13,6 +13,7 @@
 - [microsoft/azure-pipelines-image-generation: Azure Pipelines VM image generation for Microsoft-hosted CI/CD](https://github.com/microsoft/azure-pipelines-image-generation)
 
 ## 便利 Actions
+- [GitHub API Request · Actions · GitHub Marketplace](https://github.com/marketplace/actions/github-api-request)
 - [AWS for GitHub Actions](https://github.com/aws-actions)
 - [Azure/k8s-deploy: GitHub Action for deploying to Kubernetes clusters](https://github.com/Azure/k8s-deploy)
 - Slack
@@ -89,5 +90,3 @@ Jenkins の場合ワーキングディレクトリが使いまわされるので
     - マトリックスビルドすればそれぞれに MySQL が立つので干渉はしないはず
 - LGTM Approve
   - コメントに `LGTM` と書いたら Approve する
-- GitHub API
-  - GitHub API wrapper
