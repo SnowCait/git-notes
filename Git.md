@@ -18,6 +18,9 @@
 ## SSH
 - [git clone 時に秘密鍵を指定する - Qiita](https://qiita.com/sonots/items/826b90b085f294f93acf)
 
+## パーミッション
+- [git bashでディレクトリごと実行権限を付与する - Qiita](https://qiita.com/70_/items/6986a1b1b24004d32af4)
+
 ## SVN との比較
 
 ### メリット
