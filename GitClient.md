@@ -4,7 +4,7 @@
 - GitHub Desktop
 - TortoiseGit
 - SourceTree
-- GitKraken
+- [GitKraken](https://www.gitkraken.com/)
 - Fork
 - [Jasper](https://jasperapp.io/)
 - [gmaster](https://gmaster.io/)
