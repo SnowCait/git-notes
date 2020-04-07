@@ -33,6 +33,7 @@
 
 ## Action の作り方
 - [GitHub Actions の JavaScript Action を TypeScript で書いた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/15/212713)
+- [TypeScriptの型エラーをPR上に表示するGitHub Actionsを作成してみた | Studio Andy](https://blog.andoshin11.me/posts/typescript-error-reporter-action)
 
 ### Templates
 自作する際のテンプレート。
