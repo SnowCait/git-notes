@@ -42,6 +42,10 @@
 - [actions/typescript-action](https://github.com/actions/typescript-action)
 - [ブログズミ: GitHub Actions で [ci skip] できるようにしました](https://srz-zumix.blogspot.com/2019/10/github-actions-ci-skip.html)
 
+## セルフホストランナー
+- [自分のランナーをホストする - GitHub ヘルプ](https://help.github.com/ja/actions/hosting-your-own-runners)
+- [[GitHub]ActionsのホストランナーをEC2でやってみた | Developers.IO](https://dev.classmethod.jp/articles/hosted-runner-on-ec2/)
+
 ## 足りていないもの
 - 手動トリガー
   - デプロイ等に使いたい
