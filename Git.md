@@ -63,3 +63,6 @@ https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%
 
 ## Sparse checkout
 - [git sparse checkout で clone せずに一部のサブディレクトリだけを pull/checkout する](https://mseeeen.msen.jp/git-sparse-checkout/)
+
+## Tracking branch
+- [Git のトラッキングブランチの確認と設定方法 - yu8mada](https://yu8mada.com/2018/08/11/how-to-confirm-and-set-up-tracking-branches-in-git/)
