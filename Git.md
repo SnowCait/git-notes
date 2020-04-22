@@ -22,6 +22,9 @@
 - [Gitで空のディレクトリを管理する方法の復習｜リスティング広告運用代行専門｜カルテットコミュニケーションズ](https://quartet-communications.com/info/topics/13642)
 - [git bashでディレクトリごと実行権限を付与する - Qiita](https://qiita.com/70_/items/6986a1b1b24004d32af4)
 
+## .gitignore
+- [[Git] 自分の環境だけgitignoreする方法（2つ） - YoheiM .NET](https://www.yoheim.net/blog.php?q=20160510)
+
 ## SVN との比較
 
 ### メリット
