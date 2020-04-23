@@ -16,15 +16,17 @@
 - [delete-merged-branch](https://github.com/apps/delete-merged-branch/)
 
 ## Issue / Pull request
+- [【github】issueを複数テンプレート化してissueを整理しよう！ | Blog](https://gonjitti.com/blog/2019-08-25-github-template/)
 - [Issue およびプルリクエストを検索する - GitHub ヘルプ](https://help.github.com/ja/github/searching-for-information-on-github/searching-issues-and-pull-requests)
 
-## ZenHub
+## Project Management
+### ZenHub
 GitHub を拡張できる。
 - [ZenHub - Agile Project Management for GitHub](https://www.zenhub.com/)
 - [ZenHub2.0について](https://qiita.com/GeckoTang/items/1402c48181c4663e68c5)
 - [GitHubを中心とした開発プロセス ZenHub - Qiita](https://qiita.com/suzuki-hoge/items/f02b6752d8876ba6e114)
 
-## Zube.io
+### Zube.io
 - [スクラム向けプロジェクトマネジメントツールを比較した結果 Zube.io を推してみる - Witch on the Other Shore](https://iktakahiro.hatenablog.com/entry/2018/07/12/192213)
 
 ## Slack
