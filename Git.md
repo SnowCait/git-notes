@@ -69,3 +69,6 @@ https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%
 
 ## Tracking branch
 - [Git のトラッキングブランチの確認と設定方法 - yu8mada](https://yu8mada.com/2018/08/11/how-to-confirm-and-set-up-tracking-branches-in-git/)
+
+## Out of memory
+- [[git] push におけるメモリ不足回避 | Tech控え帳](https://www.chihayafuru.jp/tech/index.php/archives/1238)
