@@ -72,3 +72,6 @@ https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%
 
 ## Out of memory
 - [[git] push におけるメモリ不足回避 | Tech控え帳](https://www.chihayafuru.jp/tech/index.php/archives/1238)
+
+## Branch
+- [Gitのブランチの作成者を調べる方法（結論：おそらく方法はない） | ちこの資格取得日記](https://chico-shikaku.com/2019/11/investigate-git-branch-creator/)
