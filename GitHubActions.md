@@ -30,6 +30,7 @@
 - [GitHub Actions(v2)ファーストインプレッション 〜v1との違い、導入方法、価格、良い点・悪い点〜 - Hack Your Design!](https://blog.toshimaru.net/github-actions-first-impression/)
 - [新 GitHub Actions 入門 - 生産性向上ブログ](https://www.kaizenprogrammer.com/entry/2019/08/18/205010)
 - [GitHub Actionsの使い方 | 純規の暇人趣味ブログ](https://jyn.jp/github-actions-usage/)
+- [GitHub Actionsで.NET CoreアプリをAzureにデプロイする - Qiita](https://qiita.com//ikuosaito1989/items/1baf18c739d332f41411)
 
 ## Action の作り方
 - [GitHub Actions の JavaScript Action を TypeScript で書いた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/15/212713)
