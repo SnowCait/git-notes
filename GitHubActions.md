@@ -46,6 +46,7 @@
 ## セルフホストランナー
 - [自分のランナーをホストする - GitHub ヘルプ](https://help.github.com/ja/actions/hosting-your-own-runners)
 - [[GitHub]ActionsのホストランナーをEC2でやってみた | Developers.IO](https://dev.classmethod.jp/articles/hosted-runner-on-ec2/)
+- [GitHub Actionsでself-hosted runnersを試す - Qiita](https://qiita.com/hanaokatomoki/items/af47da39a61948fb123f)
 
 ## 足りていないもの
 - 手動トリガー
