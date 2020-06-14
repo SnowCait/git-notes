@@ -79,3 +79,5 @@ https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%
 ## マージ
 - [git mergeでコンフリクトが発生するか前もって調べる方法 - Qiita](https://qiita.com/horimislime/items/84fa431460c8d39f37e6)
 
+## 仕組み
+- [Gitオブジェクトの中身 - Qiita](https://qiita.com/nkshigeru/items/eb2b6f758c2707757738)
