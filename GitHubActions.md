@@ -48,6 +48,9 @@
 - [[GitHub]ActionsのホストランナーをEC2でやってみた | Developers.IO](https://dev.classmethod.jp/articles/hosted-runner-on-ec2/)
 - [GitHub Actionsでself-hosted runnersを試す - Qiita](https://qiita.com/hanaokatomoki/items/af47da39a61948fb123f)
 
+## Azure Pipelines
+- [GitHub Actionsを利用したAzure Pipelines連携を試してみた - kokoni](https://blog.kokoni.jp/entry/20191222)
+
 ## 足りていないもの
 - 手動トリガー
   - デプロイ等に使いたい
