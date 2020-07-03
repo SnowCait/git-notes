@@ -24,6 +24,8 @@
 
 ## .gitignore
 - [[Git] 自分の環境だけgitignoreする方法（2つ） - YoheiM .NET](https://www.yoheim.net/blog.php?q=20160510)
+  - `.git/info/exclude`
+  - `~/.gitconfig` `core.excludesfile`
 
 ## SVN との比較
 
