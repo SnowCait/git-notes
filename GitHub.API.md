@@ -8,3 +8,6 @@
     - "ahead" = commits were introduced on head after the common ancestor with base
     - "behind" = commits were introduced on base after the common ancestor with head
     - "identical" = branches point to same commit
+
+## Branch
+- [GitHub APIを使ってブランチを新規作成する - ぷらすのブログ](https://blog.p1ass.com/posts/create-branch-using-github-api/)
