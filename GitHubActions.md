@@ -71,6 +71,8 @@ Jenkins の場合ワーキングディレクトリが使いまわされるので
 - git clone したディレクトリをキャッシュ
 - Git LFS
 - [VFS for Git](https://www.learning-diary.com/posts/20190321-try-vfs-for-git/)
+- セルフホストランナー
+  - Jenkins のようにできる？
 
 ## Idea
 - 全員または一定数が Approve したらマージ
