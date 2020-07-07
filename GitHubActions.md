@@ -9,6 +9,7 @@
   - [New workflow editor for GitHub Actions - The GitHub Blog](https://github.blog/2019-10-01-new-workflow-editor-for-github-actions/?utm_campaign=1569944972&utm_medium=social&utm_source=twitter&utm_content=1569944972)
   - [GitHub Actions - new workflow syntax features - The GitHub Blog](https://github.blog/changelog/2019-10-01-github-actions-new-workflow-syntax-features/)
   - [Working with GitHub Actions | Jeff Rafter](https://jeffrafter.com/working-with-github-actions/)
+  - [GitHub Actions: Manual triggers with workflow_dispatch The GitHub Blog](https://github.blog/changelog/2020-07-06-github-actions-manual-triggers-with-workflow_dispatch/)
 - [GitHub Actions - GitHub Community Forum](https://github.community/t5/GitHub-Actions/bd-p/actions)
 - [microsoft/azure-pipelines-image-generation: Azure Pipelines VM image generation for Microsoft-hosted CI/CD](https://github.com/microsoft/azure-pipelines-image-generation)
 
@@ -56,8 +57,8 @@
 - [GitHub Actions does not respect [skip ci] #9](https://github.community/t/github-actions-does-not-respect-skip-ci/17325/9)
 
 ## 足りていないもの
-- 手動トリガー
-  - デプロイ等に使いたい
+- ~手動トリガー~
+  - ~デプロイ等に使いたい~
 - ワークフロー途中での承認
 - ~キャッシュ機構~
 - ~セルフホスト~
