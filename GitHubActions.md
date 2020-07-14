@@ -76,3 +76,7 @@ Jenkins の場合ワーキングディレクトリが使いまわされるので
 - [VFS for Git](https://www.learning-diary.com/posts/20190321-try-vfs-for-git/)
 - セルフホストランナー
   - Jenkins のようにできる？
+
+## Tips
+- `##[error]Repository path 'c:\php-sdk' is not under 'd:\a\Build-PHP-8-on-Windows\Build-PHP-8-on-Windows'`
+  - https://github.com/SnowCait/Build-PHP-8-on-Windows/runs/869708470?check_suite_focus=true
