@@ -9,6 +9,8 @@
   - input
     - account: @SnowCait
     - min: 0 `auto merge`, null `all approved`
+- wip-is-draft
+  - タイトルに `WIP` が含まれていたら Draft にする
 - do-not-merge-labels
   - 特定のラベルが付いていたらマージボタンを非アクティブにする
     - `WIP`, `作業中`
@@ -37,3 +39,5 @@
     - マトリックスビルドすればそれぞれに MySQL が立つので干渉はしないはず
 - LGTM Approve
   - コメントに `LGTM` と書いたら Approve する
+- word-hunter
+  - `master/slave` などの単語を見つけたらコメントする
