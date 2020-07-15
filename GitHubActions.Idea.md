@@ -20,6 +20,16 @@
     - labels (string[]): 定義されていたら有効。対象ラベルのリスト。
     - title (string): 定義されていたら有効。正規表現を指定する。
     - todo (bool): true なら有効。 `- [x]` のリストが全部埋まっているかチェックする。
+  - 既にある
+    - [WIP Blocker · Actions · GitHub Marketplace](https://github.com/marketplace/actions/wip-blocker)
+    - [wip-check · Actions · GitHub Marketplace](https://github.com/marketplace/actions/wip-check)
+- wip
+  - JS action で作る
+    - This action is created by JS, so it is faster than any other Docker actions.
+  - 既存
+    - [WIP · Actions · GitHub Marketplace](https://github.com/marketplace/actions/wip)
+  - 類似
+    - [add-wip-label · Actions · GitHub Marketplace](https://github.com/marketplace/actions/add-wip-label) ラベルを追加するだけ
 - あるブランチにマージされたら別のブランチにもマージする
   - マージ終わったら削除走らせても良さそうだが削除専用の Action を組み合わせられるならそっちの方がいい
 - マージ先ブランチに対応したラベルを付ける
