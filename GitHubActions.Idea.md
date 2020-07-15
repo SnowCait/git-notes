@@ -11,6 +11,7 @@
     - min: 0 `auto merge`, null `all approved`
 - wip-is-draft
   - タイトルに `WIP` が含まれていたら Draft にする
+  - API が `draft` の更新に未対応
 - do-not-merge-labels
   - 特定のラベルが付いていたらマージボタンを非アクティブにする
     - `WIP`, `作業中`
