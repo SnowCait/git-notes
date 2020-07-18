@@ -51,6 +51,9 @@
 - [[GitHub]ActionsのホストランナーをEC2でやってみた | Developers.IO](https://dev.classmethod.jp/articles/hosted-runner-on-ec2/)
 - [GitHub Actionsでself-hosted runnersを試す - Qiita](https://qiita.com/hanaokatomoki/items/af47da39a61948fb123f)
 
+## GitHub Actions API
+- [abskmj/hukum: An NPM module that displays Github Action progress in the terminal and aims to improve your development experience by printing status in realtime.](https://github.com/abskmj/hukum)
+
 ## Deployment
 - [テストだけでなく、デプロイもGithubで！SlackとGithub Deploymentを使ったGithub Actionsの実行方法 - Qiita](https://qiita.com/sadayuki-matsuno/items/91789798e062b881bc00)
 
