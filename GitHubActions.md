@@ -12,6 +12,8 @@
   - [GitHub Actions: Manual triggers with workflow_dispatch The GitHub Blog](https://github.blog/changelog/2020-07-06-github-actions-manual-triggers-with-workflow_dispatch/)
 - [GitHub Actions - GitHub Community Forum](https://github.community/t5/GitHub-Actions/bd-p/actions)
 - [microsoft/azure-pipelines-image-generation: Azure Pipelines VM image generation for Microsoft-hosted CI/CD](https://github.com/microsoft/azure-pipelines-image-generation)
+- repository
+  - [actions/starter-workflows: Accelerating new GitHub Actions workflows](https://github.com/actions/starter-workflows)
 
 ## 便利 Actions
 - [GitHub API Request · Actions · GitHub Marketplace](https://github.com/marketplace/actions/github-api-request)
