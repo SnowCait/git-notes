@@ -85,6 +85,12 @@ Jenkins の場合ワーキングディレクトリが使いまわされるので
 - セルフホストランナー
   - Jenkins のようにできる？
 
+## Testing
+### Web
+- [cypress](https://www.cypress.io/)
+  - [打鍵テストをCIで回す：Cypress on GitHub Actions | フューチャー技術ブログ](https://future-architect.github.io/articles/20200115/)
+- Selenium
+
 ## Tips
 - `##[error]Repository path 'c:\php-sdk' is not under 'd:\a\Build-PHP-8-on-Windows\Build-PHP-8-on-Windows'`
   - https://github.com/SnowCait/Build-PHP-8-on-Windows/runs/869708470?check_suite_focus=true
