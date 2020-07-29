@@ -31,6 +31,8 @@
   - [Create Pull Request · Actions · GitHub Marketplace](https://github.com/marketplace/actions/create-pull-request)
 - [Run Laravel test suite on GitHub Actions with laravel-docker • stefanzweifel.io](https://stefanzweifel.io/posts/run-laravel-test-suite-on-github-actions-with-laravel-docker/)
 - [warrenbuckley/Setup-Nuget: Set up your GitHub Actions workflow with the latest version of Nuget.exe CLI tool](https://github.com/warrenbuckley/Setup-Nuget)
+- Mackerel
+  - [リポジトリに含まれるコード量/比率をMackerelに記録する with GitHub Actions & action-mackerel-api - がんばってなんか書く](https://yutailang0119.hatenablog.com/entry/repos-list-languages-with-action-mackerel-api)
 
 ## 参考
 - [GitHub Actions(v2)ファーストインプレッション 〜v1との違い、導入方法、価格、良い点・悪い点〜 - Hack Your Design!](https://blog.toshimaru.net/github-actions-first-impression/)
