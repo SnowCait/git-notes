@@ -21,6 +21,7 @@
 - [AWS for GitHub Actions](https://github.com/aws-actions)
 - [Azure/k8s-deploy: GitHub Action for deploying to Kubernetes clusters](https://github.com/Azure/k8s-deploy)
 - Slack
+  - [Slack Incoming Webhook · Actions · GitHub Marketplace](https://github.com/marketplace/actions/slack-incoming-webhook)
   - [Slatify · Actions · GitHub Marketplace](https://github.com/marketplace/actions/slatify)
   - [GitHub Actions(beta)向けにslack通知プラグインを作った - 839の日記](https://839.hateblo.jp/entry/2019/08/16/104624)
 - Docker
