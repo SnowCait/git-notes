@@ -34,6 +34,8 @@
 - [warrenbuckley/Setup-Nuget: Set up your GitHub Actions workflow with the latest version of Nuget.exe CLI tool](https://github.com/warrenbuckley/Setup-Nuget)
 - Mackerel
   - [リポジトリに含まれるコード量/比率をMackerelに記録する with GitHub Actions & action-mackerel-api - がんばってなんか書く](https://yutailang0119.hatenablog.com/entry/repos-list-languages-with-action-mackerel-api)
+- Unity
+  - [yukiarrr/unity-build-action: Build Android, iOS, Mac, Windows, and WebGL](https://github.com/yukiarrr/unity-build-action)
 
 ## 参考
 - [GitHub Actions(v2)ファーストインプレッション 〜v1との違い、導入方法、価格、良い点・悪い点〜 - Hack Your Design!](https://blog.toshimaru.net/github-actions-first-impression/)
