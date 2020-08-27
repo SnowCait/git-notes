@@ -54,6 +54,9 @@
 - [actions/javascript-action: Create a JavaScript Action with tests, linting, workflow, publishing, and versioning](https://github.com/actions/javascript-action)
 - [actions/typescript-action](https://github.com/actions/typescript-action)
 
+### Tips
+- [node.js で絶対パスや相対パスを取得する方法 npm __dirname](https://gist.github.com/uupaa/da42698d6b2d2cbb3cca)
+
 ## セルフホストランナー
 - [自分のランナーをホストする - GitHub ヘルプ](https://help.github.com/ja/actions/hosting-your-own-runners)
 - [[GitHub]ActionsのホストランナーをEC2でやってみた | Developers.IO](https://dev.classmethod.jp/articles/hosted-runner-on-ec2/)
