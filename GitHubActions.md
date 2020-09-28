@@ -46,8 +46,11 @@
 - [GitHub Actionsの使い方 | 純規の暇人趣味ブログ](https://jyn.jp/github-actions-usage/)
 - [GitHub Actionsで.NET CoreアプリをAzureにデプロイする - Qiita](https://qiita.com//ikuosaito1989/items/1baf18c739d332f41411)
 - [GitHub Actionsを使ってWebサイト(EC2)の更新を自動化する - Qiita](https://qiita.com//SlNCU/items/3302dfbe71b12e66cf94)
-- [GitHubActions - Qiita](https://qiita.com/tags/githubactions)
-- [GitHub Actions | Zenn](https://zenn.dev/topics/githubactions)
+- 技術情報サイト
+  - [GitHubActions - Qiita](https://qiita.com/tags/githubactions)
+  - [GitHub Actions | Zenn](https://zenn.dev/topics/githubactions)
+- iOS
+  - [GitHub ActionsでiOSアプリをCIする個人的ベストプラクティス / iosdc_2020 - Speaker Deck](https://speakerdeck.com/uhooi/iosdc-2020)
 
 ## Action の作り方
 - [GitHub Actions の JavaScript Action を TypeScript で書いた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/15/212713)
