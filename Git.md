@@ -60,12 +60,18 @@
 5GB を超えるリポジトリを扱うには。
 
 ### 課題
-- `git clone` が重い
+- `git clone` が重い、失敗する
 - `git status` が重い
 
 ### 対策
 - [明日から出来る重い Gitレポジトリへの対抗策 - Qiita](https://qiita.com/aeroastro/items/9ed7a41f52362b31a01c)
 - [How to handle big repositories with Git | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/big-repositories)
+- the remote end hung up unexpectedly
+  - [git cloneで「the remote end hung up unexpectedly」エラーが出たときの3つの対処方法！「http.postBuffer」を変更しても解決しなかったときに読む | Course out](https://dream-target.jp/2019/03/17/git_remote_end_hung_up/)
+  - [gitで大きいサイズのファイルを扱う時 - Qiita](https://qiita.com/akiko-pusu/items/2d65a54e9d2a6c7f9d13)
+    - `git clone –depth 1`
+    - `git fetch –unshallow`
+    - `git config http.postBuffer 157286400`
 
 ### 関連
 https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%A4%A7%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95
