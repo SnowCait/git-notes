@@ -1,7 +1,7 @@
 # Git クライアント
 
 - コマンドライン
-- GitHub Desktop
+- [GitHub Desktop](https://desktop.github.com/)
 - [Git for Windows](https://gitforwindows.org/)
 - [Git Extensions](http://gitextensions.github.io/)
 - TortoiseGit
