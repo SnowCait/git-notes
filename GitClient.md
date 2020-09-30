@@ -2,6 +2,8 @@
 
 - コマンドライン
 - GitHub Desktop
+- [Git for Windows](https://gitforwindows.org/)
+- [Git Extensions](http://gitextensions.github.io/)
 - TortoiseGit
 - [Sourcetree](https://www.sourcetreeapp.com/)
 - [GitKraken](https://www.gitkraken.com/)
