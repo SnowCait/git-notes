@@ -82,6 +82,15 @@
 - [GitHub Actionsでself-hosted runnersを試す - Qiita](https://qiita.com/hanaokatomoki/items/af47da39a61948fb123f)
 - [GitHub Actionsで実現する、APIキー不要でGitOps-likeなインフラCI/CD - JX通信社エンジニアブログ](https://tech.jxpress.net/entry/gitops-for-terraform-with-github-self-hosted-runner)
 
+### Why self-hosted runners
+- [GitHub-hosted runners](https://docs.github.com/ja/free-pro-team@latest/actions/reference/specifications-for-github-hosted-runners) のスペックでは足りない
+- 事前にソフトウェアのインストールをしたい
+  - ライセンス
+  - インストールに時間がかかる、コマンドからできない
+- 無料枠を大幅に超えるので課金するよりセルフホストした方が安い
+- リポジトリが大きいので毎回 clone すると遅い
+- GitHub Enterprise Server を使っている
+
 ## GitHub Actions API
 - [abskmj/hukum: An NPM module that displays Github Action progress in the terminal and aims to improve your development experience by printing status in realtime.](https://github.com/abskmj/hukum)
 
