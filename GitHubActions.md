@@ -87,6 +87,7 @@
 - 事前にソフトウェアのインストールをしたい
   - ライセンス
   - インストールに時間がかかる、コマンドからできない
+- [環境](https://github.com/actions/virtual-environments/releases) が勝手に更新されて動かなくなるのを防ぐ
 - 無料枠を大幅に超えるので課金するよりセルフホストした方が安い
 - リポジトリが大きいので毎回 clone すると遅い
 - GitHub Enterprise Server を使っている
