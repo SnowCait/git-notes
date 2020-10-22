@@ -81,6 +81,7 @@
 - [[GitHub]ActionsのホストランナーをEC2でやってみた | Developers.IO](https://dev.classmethod.jp/articles/hosted-runner-on-ec2/)
 - [GitHub Actionsでself-hosted runnersを試す - Qiita](https://qiita.com/hanaokatomoki/items/af47da39a61948fb123f)
 - [GitHub Actionsで実現する、APIキー不要でGitOps-likeなインフラCI/CD - JX通信社エンジニアブログ](https://tech.jxpress.net/entry/gitops-for-terraform-with-github-self-hosted-runner)
+- [GitHub Actions の self-hosted runners を AWS ECS で動かして、CI / CD パイプラインを作る - エクサウィザーズ Engineer Blog](https://techblog.exawizards.com/entry/2020/10/22/080000)
 
 ### Why self-hosted runners
 - [GitHub-hosted runners](https://docs.github.com/ja/free-pro-team@latest/actions/reference/specifications-for-github-hosted-runners) のスペックでは足りない
