@@ -43,9 +43,11 @@
   - [GitHub Actions ランタイムを多言語化するアクションを作った ｜ loop.run_forever()](https://note.sarisia.cc/entry/github-actions-setup-icu/)
 
 ## 参考
-- [GitHub Actions(v2)ファーストインプレッション 〜v1との違い、導入方法、価格、良い点・悪い点〜 - Hack Your Design!](https://blog.toshimaru.net/github-actions-first-impression/)
-- [新 GitHub Actions 入門 - 生産性向上ブログ](https://www.kaizenprogrammer.com/entry/2019/08/18/205010)
-- [GitHub Actionsの使い方 | 純規の暇人趣味ブログ](https://jyn.jp/github-actions-usage/)
+- 入門
+  - [GitHub Actions(v2)ファーストインプレッション 〜v1との違い、導入方法、価格、良い点・悪い点〜 - Hack Your Design!](https://blog.toshimaru.net/github-actions-first-impression/)
+  - [新 GitHub Actions 入門 - 生産性向上ブログ](https://www.kaizenprogrammer.com/entry/2019/08/18/205010)
+  - [GitHub Actionsの使い方 | 純規の暇人趣味ブログ](https://jyn.jp/github-actions-usage/)
+  - [GitHubの新機能「GitHub Actions」で試すCI/CD | さくらのナレッジ](https://knowledge.sakura.ad.jp/23478/)
 - [GitHub Actionsで.NET CoreアプリをAzureにデプロイする - Qiita](https://qiita.com//ikuosaito1989/items/1baf18c739d332f41411)
 - [GitHub Actionsを使ってWebサイト(EC2)の更新を自動化する - Qiita](https://qiita.com//SlNCU/items/3302dfbe71b12e66cf94)
 - 技術情報サイト
