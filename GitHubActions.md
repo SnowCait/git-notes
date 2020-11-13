@@ -139,8 +139,14 @@ Jenkins の場合ワーキングディレクトリが使いまわされるので
 - Selenium
 
 ## Tips
+
+### 全般
 - `##[error]Repository path 'c:\php-sdk' is not under 'd:\a\Build-PHP-8-on-Windows\Build-PHP-8-on-Windows'`
   - https://github.com/SnowCait/Build-PHP-8-on-Windows/runs/869708470?check_suite_focus=true
 - `Fatal error: Uncaught SDK\Exception: Couldn't execute cl.exe.`
   - https://github.com/SnowCait/Build-PHP-8-on-Windows/runs/869976956?check_suite_focus=true
   - [Enable Developer Command Prompt · Actions · GitHub Marketplace](https://github.com/marketplace/actions/enable-developer-command-prompt)
+
+### PHP
+- [GitHub Actions で PHP の CI/CD をする - Qiita](https://qiita.com/nanasess/items/09b0798eb878328b195f)
+- [GitHub ActionsでPHPUnitを実行する - Qiita](https://qiita.com/blue32a/items/0661d70216051ad6552d)
