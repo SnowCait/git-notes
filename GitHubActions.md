@@ -67,6 +67,7 @@
 ## Action の作り方
 - [GitHub Actions の JavaScript Action を TypeScript で書いた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/15/212713)
 - [TypeScriptの型エラーをPR上に表示するGitHub Actionsを作成してみた | Studio Andy](https://blog.andoshin11.me/posts/typescript-error-reporter-action)
+- [technote-space/release-github-actions: GitHub Actions to automate GitHub Actions releases](https://github.com/technote-space/release-github-actions)
 
 ### Templates
 自作する際のテンプレート。
