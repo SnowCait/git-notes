@@ -82,6 +82,7 @@
 ## Debug
 - [デバッグロギングの有効化 - GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/actions/managing-workflow-runs/enabling-debug-logging)
 - [nektos/act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
+- [GitHub Actions で SSH デバッグ！ (debugging-with-tmate)](https://zenn.dev/luma/articles/21e66e11cc4aa8d0f9ae)
 
 ## セルフホストランナー
 - [自分のランナーをホストする - GitHub ヘルプ](https://help.github.com/ja/actions/hosting-your-own-runners)
