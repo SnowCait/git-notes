@@ -31,6 +31,7 @@
 - ググラビリティが低い
 - `git remote` ができない
 - 内臓 Git を使うと重いので OS 側の Git を指定する
+- [Git クライアント Fork がとてもいい – Numb.](https://wp.graphact.com/2020/04/29/git-client-fork/)
 
 ## SourceTree
 - 一通りの機能が揃っている
