@@ -39,6 +39,8 @@
   - [リポジトリに含まれるコード量/比率をMackerelに記録する with GitHub Actions & action-mackerel-api - がんばってなんか書く](https://yutailang0119.hatenablog.com/entry/repos-list-languages-with-action-mackerel-api)
 - Unity
   - [yukiarrr/unity-build-action: Build Android, iOS, Mac, Windows, and WebGL](https://github.com/yukiarrr/unity-build-action)
+  - [game-ci/unity-actions: Github actions for testing and building Unity projects](https://github.com/game-ci/unity-actions)
+    - [Github Actions で UnityPackage をビルドしたら快適だった話 - Qiita](https://qiita.com/TakenokoTech/items/4b22e9f1c14570306bb2)
 - ICU
   - [GitHub Actions ランタイムを多言語化するアクションを作った ｜ loop.run_forever()](https://note.sarisia.cc/entry/github-actions-setup-icu/)
 
