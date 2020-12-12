@@ -87,6 +87,11 @@
 - [nektos/act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
 - [GitHub Actions で SSH デバッグ！ (debugging-with-tmate)](https://zenn.dev/luma/articles/21e66e11cc4aa8d0f9ae)
 
+## GitHub ホストランナー
+
+### Price
+- [GithubActionsの料金内訳を集計して可視化してみた - 好奇心の足跡](https://tech.kusuwada.com/entry/2020/12/05/053300)
+
 ## セルフホストランナー
 - [自分のランナーをホストする - GitHub ヘルプ](https://help.github.com/ja/actions/hosting-your-own-runners)
 - [[GitHub]ActionsのホストランナーをEC2でやってみた | Developers.IO](https://dev.classmethod.jp/articles/hosted-runner-on-ec2/)
@@ -122,7 +127,7 @@
 ## 足りていないもの
 - ~手動トリガー~
   - ~デプロイ等に使いたい~
-- ワークフロー途中での承認
+- ~ワークフロー途中での承認~
 - ~キャッシュ機構~
 - ~セルフホスト~
 - エラーハンドリング（失敗を許容する）
