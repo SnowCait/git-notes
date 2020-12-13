@@ -67,6 +67,8 @@
   - [Terraform開発時のDeveloper Experienceを爆上げする](https://zenn.dev/honmarkhunt/articles/2f03cba1ffe966)
 - AWS
   - [【GitHub Actions】AWS Lambdaの環境変数を自動で更新する - りんごとバナナとエンジニア](https://udomomo.hatenablog.com/entry/2020/10/11/235541)
+- インフラ
+  - [gossとGitHub Actionsでインフラを自動テストした – クラウド・分散システム研究室](https://ja.tak-cslab.org/archives/786)
 
 ## Action の作り方
 - [GitHub Actions の JavaScript Action を TypeScript で書いた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/15/212713)
