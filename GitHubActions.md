@@ -43,6 +43,8 @@
     - [Github Actions で UnityPackage をビルドしたら快適だった話 - Qiita](https://qiita.com/TakenokoTech/items/4b22e9f1c14570306bb2)
 - ICU
   - [GitHub Actions ランタイムを多言語化するアクションを作った ｜ loop.run_forever()](https://note.sarisia.cc/entry/github-actions-setup-icu/)
+- reviewdog
+  - [KtLint + Spotless + GitHub ActionsでPRにsuggested changeさせる - Qiita](https://qiita.com/takahirom/items/2a3d2912e74107748765)
 
 ## 参考
 - 入門
