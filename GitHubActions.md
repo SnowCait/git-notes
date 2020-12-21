@@ -102,6 +102,7 @@
 - [GitHub Actionsで実現する、APIキー不要でGitOps-likeなインフラCI/CD - JX通信社エンジニアブログ](https://tech.jxpress.net/entry/gitops-for-terraform-with-github-self-hosted-runner)
 - [GitHub Actions の self-hosted runners を AWS ECS で動かして、CI / CD パイプラインを作る - エクサウィザーズ Engineer Blog](https://techblog.exawizards.com/entry/2020/10/22/080000)
 - [GitHub Actions のセルフホストランナーで Unity ビルドする - フレームシンセシス](https://framesynthesis.jp/tech/github/actions-unity/)
+- [GitHub-hostedライクなself-hosted Runnerを管理するツールを作った | なぜにぶろぐ](https://blog.whywrite.it/2020/12/20/release-myshoes/)
 
 ### Why self-hosted runners
 - [GitHub-hosted runners](https://docs.github.com/ja/free-pro-team@latest/actions/reference/specifications-for-github-hosted-runners) のスペックでは足りない
