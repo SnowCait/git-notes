@@ -46,6 +46,7 @@
   - [GitHub Actions ランタイムを多言語化するアクションを作った ｜ loop.run_forever()](https://note.sarisia.cc/entry/github-actions-setup-icu/)
 - reviewdog
   - [KtLint + Spotless + GitHub ActionsでPRにsuggested changeさせる - Qiita](https://qiita.com/takahirom/items/2a3d2912e74107748765)
+- [cybozu/octoken-action: GitHub Action for creating an installation access token for a GitHub App](https://github.com/cybozu/octoken-action)
 
 ## 参考
 - 入門
