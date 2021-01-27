@@ -72,6 +72,7 @@
     - `git clone –depth 1` > `git fetch –unshallow`
     - `git config http.postBuffer 157286400`
 - [【Git】push 時に fatal: the remote end hung up unexpectedly が出たときの対応 | | ぶろねこ -Blog on NEKOTEAM-](https://blog.nekoteam.com/?p=1993)
+- [パーシャルクローンとシャロークローンを活用しよう - GitHubブログ](https://github.blog/jp/2021-01-13-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 
 ### 関連
 https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%A4%A7%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95
