@@ -79,6 +79,8 @@
   - [GitHub Actions で .NETプロジェクトの静的コード解析を行う](https://zenn.dev/shimat/articles/c0bfb6e8dfb0fb)
 - PlantUML
   - [GitHub Actions！PlantUMLソースから画像ファイルを自動生成＆コミット！ - Qiita](https://qiita.com/bubu_suke/items/f5cb7a08b9eb47d28230)
+- Deploy
+  - [GitHub Actions上でDeployerを使ってPHPアプリケーションを自動デプロイする - Qiita](https://qiita.com/77web@github/items/b107453b507664ac0ebf)
 
 ## Action の作り方
 - [GitHub Actions の JavaScript Action を TypeScript で書いた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/15/212713)
