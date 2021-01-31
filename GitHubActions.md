@@ -79,8 +79,6 @@
   - [GitHub Actions で .NETプロジェクトの静的コード解析を行う](https://zenn.dev/shimat/articles/c0bfb6e8dfb0fb)
 - PlantUML
   - [GitHub Actions！PlantUMLソースから画像ファイルを自動生成＆コミット！ - Qiita](https://qiita.com/bubu_suke/items/f5cb7a08b9eb47d28230)
-- Deploy
-  - [GitHub Actions上でDeployerを使ってPHPアプリケーションを自動デプロイする - Qiita](https://qiita.com/77web@github/items/b107453b507664ac0ebf)
 - Test
   - [GitHub ActionsでE2Eのクロスブラウザテストを実装してみる｜SHIFT Group｜note](https://note.com/shift_tech/n/n10473a3c5fcd)
 
@@ -136,6 +134,7 @@
 
 ## Deployment
 - [テストだけでなく、デプロイもGithubで！SlackとGithub Deploymentを使ったGithub Actionsの実行方法 - Qiita](https://qiita.com/sadayuki-matsuno/items/91789798e062b881bc00)
+- [GitHub Actions上でDeployerを使ってPHPアプリケーションを自動デプロイする - Qiita](https://qiita.com/77web@github/items/b107453b507664ac0ebf)
 
 ## Azure Pipelines
 - [GitHub Actionsを利用したAzure Pipelines連携を試してみた - kokoni](https://blog.kokoni.jp/entry/20191222)
