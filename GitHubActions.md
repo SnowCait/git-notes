@@ -101,6 +101,9 @@
 ## Debug
 - [デバッグロギングの有効化 - GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/actions/managing-workflow-runs/enabling-debug-logging)
 - [nektos/act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
+  - [GitHub Actionsをactを使ってローカルで実行する - @znz blog](https://blog.n-z.jp/blog/2020-07-14-github-actions-local-act.html)
+  - [GitHub Actions を act でローカルテストする - Vがいる日々](https://vlike-vlife.netlify.app/posts/testtool_act)
+  - [Githhub Actionsをローカルで実行するnectos/actでcommand not foundが出たときの対処法 - ハイパーマッスルエンジニアになりたい](https://www.rasukarusan.com/entry/2021/01/27/224725)
 - [GitHub Actions で SSH デバッグ！ (debugging-with-tmate)](https://zenn.dev/luma/articles/21e66e11cc4aa8d0f9ae)
 
 ## GitHub ホストランナー
