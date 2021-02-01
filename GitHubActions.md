@@ -81,6 +81,7 @@
   - [GitHub Actions！PlantUMLソースから画像ファイルを自動生成＆コミット！ - Qiita](https://qiita.com/bubu_suke/items/f5cb7a08b9eb47d28230)
 - Test
   - [GitHub ActionsでE2Eのクロスブラウザテストを実装してみる｜SHIFT Group｜note](https://note.com/shift_tech/n/n10473a3c5fcd)
+- [GitHub Actions workflowのプロファイラを書いた - 私が歌川です](https://blog.utgw.net/entry/2020/11/28/220422)
 
 ## Action の作り方
 - [GitHub Actions の JavaScript Action を TypeScript で書いた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/15/212713)
