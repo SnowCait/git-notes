@@ -4,6 +4,7 @@
 - [Features • GitHub Actions](https://github.com/features/actions)
 - [GitHub アクションでワークフローを自動化する - GitHub ヘルプ](https://help.github.com/ja/categories/automating-your-workflow-with-github-actions)
   - [GitHubホストランナーにインストールされるソフトウェア - GitHub Docs](https://docs.github.com/ja/actions/reference/software-installed-on-github-hosted-runners)
+  - [リファレンス - GitHub Docs](https://docs.github.com/ja/actions/reference)
 - [GitHub Marketplace · Actions to improve your workflow](https://github.com/marketplace?type=actions)
 - blog
   - [GitHub Actions now supports CI/CD, free for public repositories](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/)
