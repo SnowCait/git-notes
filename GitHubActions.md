@@ -17,6 +17,7 @@
 - repository
   - [actions/starter-workflows: Accelerating new GitHub Actions workflows](https://github.com/actions/starter-workflows)
 - [Actions Support · Issue #2889 · cli/cli](https://github.com/cli/cli/issues/2889)
+- [octokit/action.js: GitHub API client for GitHub Actions](https://github.com/octokit/action.js)
 
 ## 便利 Actions
 - [GitHub API Request · Actions · GitHub Marketplace](https://github.com/marketplace/actions/github-api-request)
