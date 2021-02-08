@@ -49,6 +49,7 @@
   - [GitHub Actions ランタイムを多言語化するアクションを作った ｜ loop.run_forever()](https://note.sarisia.cc/entry/github-actions-setup-icu/)
 - reviewdog
   - [KtLint + Spotless + GitHub ActionsでPRにsuggested changeさせる - Qiita](https://qiita.com/takahirom/items/2a3d2912e74107748765)
+  - [[Go] 新規追加した関数にNew RelicのSegmentを入れ忘れていたら警告するGitHub Actionsを作った - My External Storage](https://budougumi0617.github.io/2021/02/07/release_action_newrelic_segment_lint/)
 - [cybozu/octoken-action: GitHub Action for creating an installation access token for a GitHub App](https://github.com/cybozu/octoken-action)
 
 ## 参考
