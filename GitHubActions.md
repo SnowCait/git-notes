@@ -128,10 +128,10 @@
 - [GitHub Actionsで実現する、APIキー不要でGitOps-likeなインフラCI/CD - JX通信社エンジニアブログ](https://tech.jxpress.net/entry/gitops-for-terraform-with-github-self-hosted-runner)
 - [GitHub Actions の self-hosted runners を AWS ECS で動かして、CI / CD パイプラインを作る - エクサウィザーズ Engineer Blog](https://techblog.exawizards.com/entry/2020/10/22/080000)
 - [GitHub Actions のセルフホストランナーで Unity ビルドする - フレームシンセシス](https://framesynthesis.jp/tech/github/actions-unity/)
-- [GitHub-hostedライクなself-hosted Runnerを管理するツールを作った | なぜにぶろぐ](https://blog.whywrite.it/2020/12/20/release-myshoes/)
 - [GitHub Actions Self Hosted RunnerをAWS CDKを使ってEC2インスタンスで構築する | Developers.IO](https://dev.classmethod.jp/articles/github-actions-self-hosted-runner/)
 - Tool
   - [GitHub-hostedライクなself-hosted Runnerを管理するツールを作った | なぜにぶろぐ](https://blog.whywrite.it/2020/12/20/release-myshoes/)
+  - [Taillook/github-actions-kube-runner: GitHub Actions Kube Runner is Helm Chart of GitHub Actions Self hosted runner for on Kubernetes.](https://github.com/Taillook/github-actions-kube-runner)
 
 ### Why self-hosted runners
 - [GitHub-hosted runners](https://docs.github.com/ja/free-pro-team@latest/actions/reference/specifications-for-github-hosted-runners) のスペックでは足りない
