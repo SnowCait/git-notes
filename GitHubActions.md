@@ -55,6 +55,7 @@
   - [KtLint + Spotless + GitHub ActionsでPRにsuggested changeさせる - Qiita](https://qiita.com/takahirom/items/2a3d2912e74107748765)
   - [[Go] 新規追加した関数にNew RelicのSegmentを入れ忘れていたら警告するGitHub Actionsを作った - My External Storage](https://budougumi0617.github.io/2021/02/07/release_action_newrelic_segment_lint/)
 - [cybozu/octoken-action: GitHub Action for creating an installation access token for a GitHub App](https://github.com/cybozu/octoken-action)
+- [Early Access Program for Qodana, a New Product That Brings the "Smarts" of JetBrains IDEs Into Your CI Pipeline | JetBrains Blog](https://blog.jetbrains.com/idea/2021/02/early-access-program-for-qodana-a-new-product-that-brings-the-smarts-of-jetbrains-ides-into-your-ci-pipeline/)
 
 ## 参考
 - 入門
