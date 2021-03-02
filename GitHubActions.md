@@ -79,6 +79,7 @@
   - [GitHub Actionsでsetup-terraformを試す | Developers.IO](https://dev.classmethod.jp/articles/try-github-actions-setup-terraform/)
   - [GitHub Actions を利用しての ECSのBlue/Greenデプロイとトラフィック切り替え前テストを実践 - Qiita](https://qiita.com/mizu0/items/50b6d277054297afa6e8)
   - [Terraform開発時のDeveloper Experienceを爆上げする](https://zenn.dev/honmarkhunt/articles/2f03cba1ffe966)
+  - [New Relic One の Terraform CI/CD Pipeline by GitHub Actions - BASEプロダクトチームブログ](https://devblog.thebase.in/entry/newrelic-terraform-cicd)
 - AWS
   - [【GitHub Actions】AWS Lambdaの環境変数を自動で更新する - りんごとバナナとエンジニア](https://udomomo.hatenablog.com/entry/2020/10/11/235541)
 - インフラ
