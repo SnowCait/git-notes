@@ -198,6 +198,7 @@ Jenkins の場合ワーキングディレクトリが使いまわされるので
 ### PHP
 - [GitHub Actions で PHP の CI/CD をする - Qiita](https://qiita.com/nanasess/items/09b0798eb878328b195f)
 - [GitHub ActionsでPHPUnitを実行する - Qiita](https://qiita.com/blue32a/items/0661d70216051ad6552d)
+- [GithubActions で phpunit の並列実行 - もがき系プログラマの日常](https://kojirooooocks.hatenablog.com/entry/2021/03/03/213000)
 
 ## Problem Matchers
 - [GitHub Actionsでeslintを動かすだけでFiles changedにlint errorが表示されて便利 - $shibayu36->blog;](https://blog.shibayu36.org/entry/2020/11/09/173000)
