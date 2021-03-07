@@ -97,6 +97,9 @@
 - Benchmark
   - [継続的にベンチマークを取るための GitHub Action をつくった - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/11/131505)
 
+## Security
+- [GitHub Actionsにおけるサプライチェーン攻撃を介したリポジトリ侵害 - RyotaK's Blog](https://blog.ryotak.me/post/github-actions-supplychain/)
+
 ## Action の作り方
 - [GitHub Actions の JavaScript Action を TypeScript で書いた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/15/212713)
 - [TypeScriptの型エラーをPR上に表示するGitHub Actionsを作成してみた | Studio Andy](https://blog.andoshin11.me/posts/typescript-error-reporter-action)
