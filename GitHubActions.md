@@ -139,6 +139,7 @@
 - Tool
   - [GitHub-hostedライクなself-hosted Runnerを管理するツールを作った | なぜにぶろぐ](https://blog.whywrite.it/2020/12/20/release-myshoes/)
   - [Taillook/github-actions-kube-runner: GitHub Actions Kube Runner is Helm Chart of GitHub Actions Self hosted runner for on Kubernetes.](https://github.com/Taillook/github-actions-kube-runner)
+  - [awesome-runners | A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix](https://jonico.github.io/awesome-runners/)
 
 ### Why self-hosted runners
 - [GitHub-hosted runners](https://docs.github.com/ja/free-pro-team@latest/actions/reference/specifications-for-github-hosted-runners) のスペックでは足りない
