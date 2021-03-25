@@ -98,6 +98,8 @@
 - [GitHub Actions workflowのプロファイラを書いた - 私が歌川です](https://blog.utgw.net/entry/2020/11/28/220422)
 - Benchmark
   - [継続的にベンチマークを取るための GitHub Action をつくった - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/11/131505)
+- Submodule
+  - [GIthub Actions で Git Submodule を 最新に更新して処理する - はいばらのブログ](https://haibara-works.hatenablog.com/entry/2020/06/13/035619)
 
 ## Security
 - [GitHub Actionsにおけるサプライチェーン攻撃を介したリポジトリ侵害 - RyotaK's Blog](https://blog.ryotak.me/post/github-actions-supplychain/)
