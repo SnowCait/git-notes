@@ -195,6 +195,7 @@ Jenkins の場合ワーキングディレクトリが使いまわされるので
 ### Web
 - [cypress](https://www.cypress.io/)
   - [打鍵テストをCIで回す：Cypress on GitHub Actions | フューチャー技術ブログ](https://future-architect.github.io/articles/20200115/)
+  - [CypressでFirebase Authenticationのe2eテスト書いてみる](https://zenn.dev/ucwork/articles/21b7caaeb1cc61)
 - Selenium
 
 ## Tips
