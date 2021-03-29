@@ -59,6 +59,7 @@
 - [cybozu/octoken-action: GitHub Action for creating an installation access token for a GitHub App](https://github.com/cybozu/octoken-action)
 - [Early Access Program for Qodana, a New Product That Brings the "Smarts" of JetBrains IDEs Into Your CI Pipeline | JetBrains Blog](https://blog.jetbrains.com/idea/2021/02/early-access-program-for-qodana-a-new-product-that-brings-the-smarts-of-jetbrains-ides-into-your-ci-pipeline/)
 - [yuya-takeyama/auto-cancel-redundant-workflow-runs-action: Auto-cancel redundant Workflow Runs](https://github.com/yuya-takeyama/auto-cancel-redundant-workflow-runs-action)
+- [gqldoc · Actions · GitHub Marketplace](https://github.com/marketplace/actions/gqldoc)
 
 ## 参考
 - 入門
