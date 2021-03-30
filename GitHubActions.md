@@ -33,6 +33,8 @@
   - [Docker Github Actions - Docker Blog](https://www.docker.com/blog/docker-github-actions/)
 - WIP
   - [WIP · Actions · GitHub Marketplace](https://github.com/marketplace/actions/wip)
+- Git
+  - [stefanzweifel/git-auto-commit-action: Automatically Commit changed Files back to Github with Github Actions](https://github.com/stefanzweifel/git-auto-commit-action)
 - Pull Request
   - [Github Hub · Actions · GitHub Marketplace](https://github.com/marketplace/actions/github-hub)
   - [Create Pull Request · Actions · GitHub Marketplace](https://github.com/marketplace/actions/create-pull-request)
