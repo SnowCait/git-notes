@@ -28,6 +28,7 @@
   - [Slatify · Actions · GitHub Marketplace](https://github.com/marketplace/actions/slatify)
   - [GitHub Actions(beta)向けにslack通知プラグインを作った - 839の日記](https://839.hateblo.jp/entry/2019/08/16/104624)
   - [abeyuya/actions-mention-to-slack: Github Action for convert Github mention to Slack mention.](https://github.com/abeyuya/actions-mention-to-slack)
+  - [GitHub ActionsをSlack Botから起動する | ten-snapon.com](https://ten-snapon.com/archives/2625)
 - Docker
   - [docker/build-push-action: Build+push official Docker GitHub action](https://github.com/docker/build-push-action)
   - [Docker Github Actions - Docker Blog](https://www.docker.com/blog/docker-github-actions/)
