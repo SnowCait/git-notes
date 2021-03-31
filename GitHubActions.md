@@ -78,6 +78,7 @@
   - [GitHub ActionsでiOSアプリをCIする個人的ベストプラクティス / iosdc_2020 - Speaker Deck](https://speakerdeck.com/uhooi/iosdc-2020)
 - git-flow
   - [コピペでできるGitHub Actionsでreleaseブランチのマージ、リリースノートの作成の自動化【git-flow用】 - コネヒト開発者ブログ](https://tech.connehito.com/entry/2020/09/30/174451)
+  - [GitHub Actions を使ってリリース時のあれこれを自動化する](https://zenn.dev/itizawa/articles/b832c4e2a33661)
 - Docker
   - [Github Actions にて MySQL container imageを設定+初期化してTestで使う方法と注意 | Qrunch（クランチ）](https://qrunch.net/@ktykogm/entries/LXYoPJoY2gHCzGHp)
   - [Github Actionsでのdocker buildでキャッシュを有効にする](https://zenn.dev/74th/articles/c966c3bf389247)
