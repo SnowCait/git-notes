@@ -79,7 +79,8 @@ https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%
 
 ## Sparse checkout
 - [git sparse checkout で clone せずに一部のサブディレクトリだけを pull/checkout する](https://mseeeen.msen.jp/git-sparse-checkout/)
-- [リポジトリの一部だけcheckoutするGitコマンド：sparse-checkout - はんなりと、ゆるやかに](https://iucstscui.hatenablog.com/entry/2020/05/21/090321)
+- [git2.27以降にgit sparse-checkoutを使う場合はno-checkoutではなくsparseを使おう - はんなりと、ゆるやかに](https://iucstscui.hatenablog.com/entry/2020/08/29/080322)
+  - [リポジトリの一部だけcheckoutするGitコマンド：sparse-checkout - はんなりと、ゆるやかに](https://iucstscui.hatenablog.com/entry/2020/05/21/090321)
 
 ## Tracking branch
 - [Git のトラッキングブランチの確認と設定方法 - yu8mada](https://yu8mada.com/2018/08/11/how-to-confirm-and-set-up-tracking-branches-in-git/)
