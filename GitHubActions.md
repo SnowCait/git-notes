@@ -65,6 +65,7 @@
 - [gqldoc · Actions · GitHub Marketplace](https://github.com/marketplace/actions/gqldoc)
 - Performance
   - [Puppeteer +Lighthouse +GitHubActionsで認証付きWebアプリのWebperfを定期計測](https://zenn.dev/ryo_kawamata/articles/webperf-watcher)
+- [GitHub Actions で失敗したテストをコメントで通知する Action の作成 - Quipper Product Team Blog](https://quipper.hatenablog.com/entry/2021/04/12/comment-failure-action)
 
 ## 参考
 - 入門
