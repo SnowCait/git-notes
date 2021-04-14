@@ -115,6 +115,8 @@
   - [GitHub Actions を使って継続的ローカライゼーションをスクラッチから構築した話 | PLAID engineer blog](https://tech.plaid.co.jp/continuous-localization/)
 - Electron
   - [Electronで作ったアプリをGitHub ActionsでMac向けにリリースするときの署名と公証について – vi kent](https://kent-and-co.com/866/)
+- Issue
+  - [【R&D DevOps通信】GitHub Actions: コメント駆動のワークフローを作る - Sansan Builders Blog](https://buildersbox.corp-sansan.com/entry/2021/02/05/110000)
 
 ## Security
 - [GitHub Actionsにおけるサプライチェーン攻撃を介したリポジトリ侵害 - RyotaK's Blog](https://blog.ryotak.me/post/github-actions-supplychain/)
