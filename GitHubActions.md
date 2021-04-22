@@ -103,6 +103,8 @@
 - .NET
   - [GitHub Actionsで.NET CoreアプリをAzureにデプロイする - Qiita](https://qiita.com//ikuosaito1989/items/1baf18c739d332f41411)
   - [GitHub Actions で .NETプロジェクトの静的コード解析を行う](https://zenn.dev/shimat/articles/c0bfb6e8dfb0fb)
+- Rust
+  - [GitHub Actions best practices for Rust projects](https://www.fluvio.io/blog/2021/04/github-actions-best-practices/)
 - PlantUML
   - [GitHub Actions！PlantUMLソースから画像ファイルを自動生成＆コミット！ - Qiita](https://qiita.com/bubu_suke/items/f5cb7a08b9eb47d28230)
 - Test
