@@ -12,6 +12,7 @@
   - [GitHub Actions - new workflow syntax features - The GitHub Blog](https://github.blog/changelog/2019-10-01-github-actions-new-workflow-syntax-features/)
   - [Working with GitHub Actions | Jeff Rafter](https://jeffrafter.com/working-with-github-actions/)
   - [GitHub Actions: Manual triggers with workflow_dispatch The GitHub Blog](https://github.blog/changelog/2020-07-06-github-actions-manual-triggers-with-workflow_dispatch/)
+  - [How GitHub Actions renders large-scale logs - The GitHub Blog](https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/)
 - [GitHub Actions - GitHub Community Forum](https://github.community/t5/GitHub-Actions/bd-p/actions)
 - [microsoft/azure-pipelines-image-generation: Azure Pipelines VM image generation for Microsoft-hosted CI/CD](https://github.com/microsoft/azure-pipelines-image-generation)
 - repository
