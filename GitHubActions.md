@@ -232,6 +232,7 @@ Jenkins の場合ワーキングディレクトリが使いまわされるので
 - [GitHub Actions で PHP の CI/CD をする - Qiita](https://qiita.com/nanasess/items/09b0798eb878328b195f)
 - [GitHub ActionsでPHPUnitを実行する - Qiita](https://qiita.com/blue32a/items/0661d70216051ad6552d)
 - [GithubActions で phpunit の並列実行 - もがき系プログラマの日常](https://kojirooooocks.hatenablog.com/entry/2021/03/03/213000)
+  - [GitHub ActionsでLaravelのPHPUnitを並列実行 - Qiita](https://qiita.com/ProjectEuropa/items/afd871c4a58ad5b22f44)
 - action
   - [shivammathur/setup-php: GitHub action to setup PHP with required extensions, php.ini configuration, code-coverage support and various tools like composer...](https://github.com/shivammathur/setup-php)
 
