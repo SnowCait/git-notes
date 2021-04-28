@@ -164,6 +164,7 @@
 - Tool
   - [GitHub-hostedライクなself-hosted Runnerを管理するツールを作った | なぜにぶろぐ](https://blog.whywrite.it/2020/12/20/release-myshoes/)
   - [Taillook/github-actions-kube-runner: GitHub Actions Kube Runner is Helm Chart of GitHub Actions Self hosted runner for on Kubernetes.](https://github.com/Taillook/github-actions-kube-runner)
+  - [summerwind/actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/summerwind/actions-runner-controller)
   - [awesome-runners | A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix](https://jonico.github.io/awesome-runners/)
   - [GitHub Actions Self-hosted Runner の導入と安定運用に向けた軌跡 - Quipper Product Team Blog](https://quipper.hatenablog.com/entry/2021/04/14/github-actions-self-hosted-runner)
 
