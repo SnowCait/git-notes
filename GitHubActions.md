@@ -17,7 +17,8 @@
 - [microsoft/azure-pipelines-image-generation: Azure Pipelines VM image generation for Microsoft-hosted CI/CD](https://github.com/microsoft/azure-pipelines-image-generation)
 - repository
   - [actions/starter-workflows: Accelerating new GitHub Actions workflows](https://github.com/actions/starter-workflows)
-- [Actions Support · Issue #2889 · cli/cli](https://github.com/cli/cli/issues/2889)
+- [Work with GitHub Actions in your terminal with GitHub CLI - The GitHub Blog](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/)
+  - [Actions Support · Issue #2889 · cli/cli](https://github.com/cli/cli/issues/2889)
 - [octokit/action.js: GitHub API client for GitHub Actions](https://github.com/octokit/action.js)
 
 ## 便利 Actions
@@ -121,6 +122,8 @@
   - [Electronで作ったアプリをGitHub ActionsでMac向けにリリースするときの署名と公証について – vi kent](https://kent-and-co.com/866/)
 - Issue
   - [【R&D DevOps通信】GitHub Actions: コメント駆動のワークフローを作る - Sansan Builders Blog](https://buildersbox.corp-sansan.com/entry/2021/02/05/110000)
+- Toast
+  - [GitHub Actions workflowが完了したらデスクトップ通知を出す - valid,invalid](https://ohbarye.hatenablog.jp/entry/2021/05/01/desktop-notification-on-ci-finish)
 
 ## Security
 - [GitHub Actionsにおけるサプライチェーン攻撃を介したリポジトリ侵害 - RyotaK's Blog](https://blog.ryotak.me/post/github-actions-supplychain/)
