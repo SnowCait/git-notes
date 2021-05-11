@@ -188,6 +188,7 @@
 - [テストだけでなく、デプロイもGithubで！SlackとGithub Deploymentを使ったGithub Actionsの実行方法 - Qiita](https://qiita.com/sadayuki-matsuno/items/91789798e062b881bc00)
 - [GitHub Actions上でDeployerを使ってPHPアプリケーションを自動デプロイする - Qiita](https://qiita.com/77web@github/items/b107453b507664ac0ebf)
 - [AWS(EC2)への自動デプロイをDeployerからGitHub Actionsに移行する - Qiita](https://qiita.com/nakaji0210/items/5b609cb952e2dd5a88d1)
+- [github ActionsとAWS S3で自動デプロイ環境を作る | ヰ刀のおもちゃ箱](https://ito-u-oti.com/github-actions-s3-cicd/)
 
 ## Azure Pipelines
 - [GitHub Actionsを利用したAzure Pipelines連携を試してみた - kokoni](https://blog.kokoni.jp/entry/20191222)
