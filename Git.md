@@ -102,6 +102,7 @@ https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%
 - [git mergeでコンフリクトが発生するか前もって調べる方法 - Qiita](https://qiita.com/horimislime/items/84fa431460c8d39f37e6)
 
 ## 仕組み
+- [git/git: Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.](https://github.com/git/git)
 - [Gitオブジェクトの中身 - Qiita](https://qiita.com/nkshigeru/items/eb2b6f758c2707757738)
 - [Gitのコミットの裏側で起こっていること - LIVESENSE ENGINEER BLOG](https://made.livesense.co.jp/entry/2017/08/22/080000)
 - [git mv したファイルって blob object 上だとどう管理されているの？](https://zenn.dev/rentalcat/scraps/fd2df581a866bf)
