@@ -173,6 +173,7 @@
   - [GitHub Actions Self-hosted Runner の導入と安定運用に向けた軌跡 - Quipper Product Team Blog](https://quipper.hatenablog.com/entry/2021/04/14/github-actions-self-hosted-runner)
 - EC2 Auto-Scaling
   - [GitHub Self hosted runners on AWS - part 2 - EC2 - DEV Community](https://dev.to/jimmydqv/github-self-hosted-runners-on-aws-part-2-ec2-3jhj)
+- [philips-labs/github-runner/aws | Terraform Registry](https://registry.terraform.io/modules/philips-labs/github-runner/aws/latest)
 
 ### Why self-hosted runners
 - [GitHub-hosted runners](https://docs.github.com/ja/free-pro-team@latest/actions/reference/specifications-for-github-hosted-runners) のスペックでは足りない
