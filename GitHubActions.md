@@ -175,6 +175,7 @@
 - EC2 Auto-Scaling
   - [GitHub Self hosted runners on AWS - part 2 - EC2 - DEV Community](https://dev.to/jimmydqv/github-self-hosted-runners-on-aws-part-2-ec2-3jhj)
 - [philips-labs/github-runner/aws | Terraform Registry](https://registry.terraform.io/modules/philips-labs/github-runner/aws/latest)
+- [Scaling GitHub Action Runners | 040code](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 
 ### Why self-hosted runners
 - [GitHub-hosted runners](https://docs.github.com/ja/free-pro-team@latest/actions/reference/specifications-for-github-hosted-runners) のスペックでは足りない
