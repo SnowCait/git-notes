@@ -98,6 +98,7 @@
   - [Terraform開発時のDeveloper Experienceを爆上げする](https://zenn.dev/honmarkhunt/articles/2f03cba1ffe966)
   - [New Relic One の Terraform CI/CD Pipeline by GitHub Actions - BASEプロダクトチームブログ](https://devblog.thebase.in/entry/newrelic-terraform-cicd)
   - [Ruby on Rails × Terraform × ECS × GitHub Actionsで快適なデプロイ環境（CI/CD）を構築する - Qiita](https://qiita.com/kazama1209/items/8e8f4d83a90e782abe5e)
+  - [GitHub ActionsでTerraformを実行する - Qiita](https://qiita.com/keitakn/items/db2e9c68019594885ac4)
 - AWS
   - [【GitHub Actions】AWS Lambdaの環境変数を自動で更新する - りんごとバナナとエンジニア](https://udomomo.hatenablog.com/entry/2020/10/11/235541)
 - インフラ
