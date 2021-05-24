@@ -101,6 +101,7 @@
   - [GitHub ActionsでTerraformを実行する - Qiita](https://qiita.com/keitakn/items/db2e9c68019594885ac4)
 - AWS
   - [【GitHub Actions】AWS Lambdaの環境変数を自動で更新する - りんごとバナナとエンジニア](https://udomomo.hatenablog.com/entry/2020/10/11/235541)
+  - [GitHub Actionsに「強い」AWSの権限を渡したい / AWS credentials on Actions - Speaker Deck](https://speakerdeck.com/fujiwara3/aws-credentials-on-actions)
 - インフラ
   - [gossとGitHub Actionsでインフラを自動テストした – クラウド・分散システム研究室](https://ja.tak-cslab.org/archives/786)
 - [Build monitor for Github Actions, Gitlab CI, Travis CI, Bitrise and Buddy! | Meercode](https://meercode.io/)
