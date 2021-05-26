@@ -49,6 +49,7 @@
   - [yukiarrr/unity-build-action: Build Android, iOS, Mac, Windows, and WebGL](https://github.com/yukiarrr/unity-build-action)
   - [game-ci/unity-actions: Github actions for testing and building Unity projects](https://github.com/game-ci/unity-actions)
     - [Github Actions で UnityPackage をビルドしたら快適だった話 - Qiita](https://qiita.com/TakenokoTech/items/4b22e9f1c14570306bb2)
+    - [GameCI で Unity の CI 環境を GitHub Actions で構築する](https://zenn.dev/nikaera/articles/unity-gameci-github-actions)
   - [GitHub ActionsとUnity-CIで簡単CIビルド構築WebGL対応版 - Qiita](https://qiita.com/tetsujp84/items/d1e1ff4c3962f39cc355)
   - [github actionsでunityビルドしてiOSとAndroidのストアに自動的に提出する - Qiita](https://qiita.com/mogmet/items/1fafdf4e88bdd122b9a0)
 - Android
