@@ -128,6 +128,8 @@
   - [【R&D DevOps通信】GitHub Actions: コメント駆動のワークフローを作る - Sansan Builders Blog](https://buildersbox.corp-sansan.com/entry/2021/02/05/110000)
 - Toast
   - [GitHub Actions workflowが完了したらデスクトップ通知を出す - valid,invalid](https://ohbarye.hatenablog.jp/entry/2021/05/01/desktop-notification-on-ci-finish)
+- 統計
+  - [GitHub CLIを使ってgithub actionsの実行時間を覗いてみる。(--jsonオプションがworkflowやrunにも欲しい) - podhmo's diary](https://pod.hatenablog.com/entry/2021/05/26/172031)
 
 ## Security
 - [GitHub Actionsにおけるサプライチェーン攻撃を介したリポジトリ侵害 - RyotaK's Blog](https://blog.ryotak.me/post/github-actions-supplychain/)
