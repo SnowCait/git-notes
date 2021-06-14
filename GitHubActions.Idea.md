@@ -52,3 +52,6 @@
   - コメントに `LGTM` と書いたら Approve する
 - word-hunter
   - `master/slave` などの単語を見つけたらコメントする
+- auto-ver
+  - `ver:major`, `ver:minor`, `ver:patch` ラベルを必須にする
+  - リリース時に現在の ver からラベルの最大値をインクリメント
