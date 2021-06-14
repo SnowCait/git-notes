@@ -19,6 +19,13 @@ git branch -a --merged | grep remotes/origin/ | grep -v -e remotes/origin/master
 ```
 https://qiita.com/RyochanUedasan/items/99103da5b45cf85b626a
 
+## 含まれているか
+
+```bash
+git branch --merged | grep <branch>
+git branch --contains <sha> | grep <branch>
+```
+
 ## 改行コード確認
 ```
 git ls-files --eol
