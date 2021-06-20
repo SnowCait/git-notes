@@ -105,6 +105,7 @@
   - [GitHub Actionsに「強い」AWSの権限を渡したい ~作戦3 - AssumeRole with Google ID Token ~ - KAYAC engineers' blog](https://techblog.kayac.com/assume-role-with-google-id-token)
     - [GitHub Actionsに「強い」AWSの権限を渡したい / AWS credentials on Actions - Speaker Deck](https://speakerdeck.com/fujiwara3/aws-credentials-on-actions)
   - [【GitHubActions】単一ワークフローファイルでトリガー元に応じてデプロイ先のAWSアカウントを切り替えてみる | DevelopersIO](https://dev.classmethod.jp/articles/github-actions-one-wffile-many-aws-env/)
+  - [Github Actionsで使用するAWSのクレデンシャルをGithub Appsで安全にキーローテーションする · ~nabeken/tech/](https://mahiru.moe/post/rotate-aws-keys-with-gh-actions/)
 - インフラ
   - [gossとGitHub Actionsでインフラを自動テストした – クラウド・分散システム研究室](https://ja.tak-cslab.org/archives/786)
 - [Build monitor for Github Actions, Gitlab CI, Travis CI, Bitrise and Buddy! | Meercode](https://meercode.io/)
