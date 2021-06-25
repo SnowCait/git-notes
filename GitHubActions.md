@@ -77,6 +77,7 @@
   - [新 GitHub Actions 入門 - 生産性向上ブログ](https://www.kaizenprogrammer.com/entry/2019/08/18/205010)
   - [GitHub Actionsの使い方 | 純規の暇人趣味ブログ](https://jyn.jp/github-actions-usage/)
   - [GitHubの新機能「GitHub Actions」で試すCI/CD | さくらのナレッジ](https://knowledge.sakura.ad.jp/23478/)
+  - [入門 GitHub Actions - メドピア開発者ブログ](https://tech.medpeer.co.jp/entry/2021/06/24/100000)
 - [GitHub Actionsを使ってWebサイト(EC2)の更新を自動化する - Qiita](https://qiita.com//SlNCU/items/3302dfbe71b12e66cf94)
 - 技術情報サイト
   - [GitHubActions - Qiita](https://qiita.com/tags/githubactions)
