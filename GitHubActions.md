@@ -45,17 +45,6 @@
 - [warrenbuckley/Setup-Nuget: Set up your GitHub Actions workflow with the latest version of Nuget.exe CLI tool](https://github.com/warrenbuckley/Setup-Nuget)
 - Mackerel
   - [リポジトリに含まれるコード量/比率をMackerelに記録する with GitHub Actions & action-mackerel-api - がんばってなんか書く](https://yutailang0119.hatenablog.com/entry/repos-list-languages-with-action-mackerel-api)
-- Unity
-  - [yukiarrr/unity-build-action: Build Android, iOS, Mac, Windows, and WebGL](https://github.com/yukiarrr/unity-build-action)
-  - [game-ci/unity-actions: Github actions for testing and building Unity projects](https://github.com/game-ci/unity-actions)
-    - [Github Actions で UnityPackage をビルドしたら快適だった話 - Qiita](https://qiita.com/TakenokoTech/items/4b22e9f1c14570306bb2)
-    - [GameCI で Unity の CI 環境を GitHub Actions で構築する](https://zenn.dev/nikaera/articles/unity-gameci-github-actions)
-  - [GitHub ActionsとUnity-CIで簡単CIビルド構築WebGL対応版 - Qiita](https://qiita.com/tetsujp84/items/d1e1ff4c3962f39cc355)
-  - [github actionsでunityビルドしてiOSとAndroidのストアに自動的に提出する - Qiita](https://qiita.com/mogmet/items/1fafdf4e88bdd122b9a0)
-- Android
-  - [GitHub Actions for Android developers | by Enrique López-Mañas | Google Developers Experts | Feb, 2021 | Medium](https://medium.com/google-developer-experts/github-actions-for-android-developers-6b54c8a32f55)
-- iOS
-  - [Apple Github Actions (iOS & macOS)](https://github.com/Apple-Actions)
 - ICU
   - [GitHub Actions ランタイムを多言語化するアクションを作った ｜ loop.run_forever()](https://note.sarisia.cc/entry/github-actions-setup-icu/)
 - reviewdog
@@ -82,8 +71,6 @@
 - 技術情報サイト
   - [GitHubActions - Qiita](https://qiita.com/tags/githubactions)
   - [GitHub Actions | Zenn](https://zenn.dev/topics/githubactions)
-- iOS
-  - [GitHub ActionsでiOSアプリをCIする個人的ベストプラクティス / iosdc_2020 - Speaker Deck](https://speakerdeck.com/uhooi/iosdc-2020)
 - git-flow
   - [コピペでできるGitHub Actionsでreleaseブランチのマージ、リリースノートの作成の自動化【git-flow用】 - コネヒト開発者ブログ](https://tech.connehito.com/entry/2020/09/30/174451)
   - [GitHub Actions を使ってリリース時のあれこれを自動化する](https://zenn.dev/itizawa/articles/b832c4e2a33661)
@@ -166,6 +153,25 @@
 
 ## Release
 - [GitHub ActionsでCHANGELOG駆動Release | dondakeshimoの丸太](https://dondakeshimo.github.io/tech-blog/blog/github-actions-changelog)
+
+## Platform
+
+### Unity
+- [yukiarrr/unity-build-action: Build Android, iOS, Mac, Windows, and WebGL](https://github.com/yukiarrr/unity-build-action)
+- [game-ci/unity-actions: Github actions for testing and building Unity projects](https://github.com/game-ci/unity-actions)
+  - [Github Actions で UnityPackage をビルドしたら快適だった話 - Qiita](https://qiita.com/TakenokoTech/items/4b22e9f1c14570306bb2)
+  - [GameCI で Unity の CI 環境を GitHub Actions で構築する](https://zenn.dev/nikaera/articles/unity-gameci-github-actions)
+- [GitHub ActionsとUnity-CIで簡単CIビルド構築WebGL対応版 - Qiita](https://qiita.com/tetsujp84/items/d1e1ff4c3962f39cc355)
+- [github actionsでunityビルドしてiOSとAndroidのストアに自動的に提出する - Qiita](https://qiita.com/mogmet/items/1fafdf4e88bdd122b9a0)
+- [GitHub Actions のセルフホストランナーで Unity ビルドする - フレームシンセシス](https://framesynthesis.jp/tech/github/actions-unity/)
+- [pushしたら自動でUnityビルドが走る人権環境を手に入れる - きゅぶろぐ](https://blog.kyubuns.dev/entry/2021/07/04/212005)
+
+### Android
+- [GitHub Actions for Android developers | by Enrique López-Mañas | Google Developers Experts | Feb, 2021 | Medium](https://medium.com/google-developer-experts/github-actions-for-android-developers-6b54c8a32f55)
+
+### iOS
+- [Apple Github Actions (iOS & macOS)](https://github.com/Apple-Actions)
+- [GitHub ActionsでiOSアプリをCIする個人的ベストプラクティス / iosdc_2020 - Speaker Deck](https://speakerdeck.com/uhooi/iosdc-2020)
 
 ## GitHub ホストランナー
 
