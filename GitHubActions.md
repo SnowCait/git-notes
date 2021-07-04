@@ -124,6 +124,8 @@
 - 統計
   - [GitHub CLIを使ってgithub actionsの実行時間を覗いてみる。(--jsonオプションがworkflowやrunにも欲しい) - podhmo's diary](https://pod.hatenablog.com/entry/2021/05/26/172031)
 - [GitHub Actionsでデプロイを並列に実行させてCI/CDを高速化してみた | DevelopersIO](https://dev.classmethod.jp/articles/github-actions-parallel-deploy/)
+- Wiki
+  - [GitHub ActionsからGitHub wikiを更新する - Islands in the byte stream](https://gfx.hatenablog.com/entry/2021/07/04/202004)
 
 ## Security
 - [GitHub Actionsにおけるサプライチェーン攻撃を介したリポジトリ侵害 - RyotaK's Blog](https://blog.ryotak.me/post/github-actions-supplychain/)
