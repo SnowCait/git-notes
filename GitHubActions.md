@@ -164,6 +164,9 @@
   - [Githhub Actionsをローカルで実行するnectos/actでcommand not foundが出たときの対処法 - ハイパーマッスルエンジニアになりたい](https://www.rasukarusan.com/entry/2021/01/27/224725)
 - [GitHub Actions で SSH デバッグ！ (debugging-with-tmate)](https://zenn.dev/luma/articles/21e66e11cc4aa8d0f9ae)
 
+## Release
+- [GitHub ActionsでCHANGELOG駆動Release | dondakeshimoの丸太](https://dondakeshimo.github.io/tech-blog/blog/github-actions-changelog)
+
 ## GitHub ホストランナー
 
 ### Price
