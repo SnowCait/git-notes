@@ -126,6 +126,8 @@
 - [GitHub Actionsでデプロイを並列に実行させてCI/CDを高速化してみた | DevelopersIO](https://dev.classmethod.jp/articles/github-actions-parallel-deploy/)
 - Wiki
   - [GitHub ActionsからGitHub wikiを更新する - Islands in the byte stream](https://gfx.hatenablog.com/entry/2021/07/04/202004)
+- .NET
+  - [Tyrrrz/GitHubActionsTestLogger: Test logger for .NET that reports results in a format that GitHub Actions understands](https://github.com/Tyrrrz/GitHubActionsTestLogger)
 
 ## Security
 - [GitHub Actionsにおけるサプライチェーン攻撃を介したリポジトリ侵害 - RyotaK's Blog](https://blog.ryotak.me/post/github-actions-supplychain/)
