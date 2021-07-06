@@ -95,6 +95,7 @@
   - [【GitHubActions】単一ワークフローファイルでトリガー元に応じてデプロイ先のAWSアカウントを切り替えてみる | DevelopersIO](https://dev.classmethod.jp/articles/github-actions-one-wffile-many-aws-env/)
   - [Github Actionsで使用するAWSのクレデンシャルをGithub Appsで安全にキーローテーションする · ~nabeken/tech/](https://mahiru.moe/post/rotate-aws-keys-with-gh-actions/)
   - [Configure GitHub Actions workflows with a new GitHub Action for building serverless applications](https://aws.amazon.com/jp/about-aws/whats-new/2021/06/configure-github-actions-workflows-with-new-github-action-for-building-serverless-applications/?nc1=h_ls)
+  - [GitHub ActionsでCloudflareのキャッシュをパージする - くらげになりたい。](https://www.memory-lovers.blog/entry/2021/07/06/110000)
 - インフラ
   - [gossとGitHub Actionsでインフラを自動テストした – クラウド・分散システム研究室](https://ja.tak-cslab.org/archives/786)
 - [Build monitor for Github Actions, Gitlab CI, Travis CI, Bitrise and Buddy! | Meercode](https://meercode.io/)
