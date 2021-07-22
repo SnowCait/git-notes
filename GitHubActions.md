@@ -60,6 +60,7 @@
   - [Puppeteer +Lighthouse +GitHubActionsで認証付きWebアプリのWebperfを定期計測](https://zenn.dev/ryo_kawamata/articles/webperf-watcher)
 - [GitHub Actions で失敗したテストをコメントで通知する Action の作成 - Quipper Product Team Blog](https://quipper.hatenablog.com/entry/2021/04/12/comment-failure-action)
 - [hmarr/auto-approve-action: 👍 GitHub Action for automatically approving GitHub pull requests](https://github.com/hmarr/auto-approve-action)
+- [int128/datadog-actions-metrics: Send GitHub Actions metrics to Datadog](https://github.com/int128/datadog-actions-metrics)
 
 ## 参考
 - 入門
