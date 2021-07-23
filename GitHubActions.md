@@ -232,11 +232,6 @@
 ## Azure Pipelines
 - [GitHub Actionsを利用したAzure Pipelines連携を試してみた - kokoni](https://blog.kokoni.jp/entry/20191222)
 
-## Skip
-- [ブログズミ: GitHub Actions で [ci skip] できるようにしました](https://srz-zumix.blogspot.com/2019/10/github-actions-ci-skip.html)
-- [GitHub Actions で Skip CI を実現する - Qiita](https://qiita.com/peaceiris/items/28e302996ccf04551434)
-- [GitHub Actions does not respect [skip ci] #9](https://github.community/t/github-actions-does-not-respect-skip-ci/17325/9)
-
 ## 足りていないもの
 - ~手動トリガー~
   - ~デプロイ等に使いたい~
