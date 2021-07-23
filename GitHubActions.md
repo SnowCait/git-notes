@@ -232,6 +232,9 @@
 ## Azure Pipelines
 - [GitHub Actionsを利用したAzure Pipelines連携を試してみた - kokoni](https://blog.kokoni.jp/entry/20191222)
 
+## Dependabot
+- [[GitHub Actions] Secrets や書き込み権限が必要な Workflow を Dependabot からも使えるようにする – もばらぶエンジニアブログ](https://engineering-wp.mobalab.net/2021/04/30/make-secrets-available-in-pull-request-opened-by-dependabot/)
+
 ## 足りていないもの
 - ~手動トリガー~
   - ~デプロイ等に使いたい~
