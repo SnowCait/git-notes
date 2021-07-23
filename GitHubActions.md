@@ -98,6 +98,7 @@
   - [Github Actionsで使用するAWSのクレデンシャルをGithub Appsで安全にキーローテーションする · ~nabeken/tech/](https://mahiru.moe/post/rotate-aws-keys-with-gh-actions/)
   - [Configure GitHub Actions workflows with a new GitHub Action for building serverless applications](https://aws.amazon.com/jp/about-aws/whats-new/2021/06/configure-github-actions-workflows-with-new-github-action-for-building-serverless-applications/?nc1=h_ls)
   - [GitHub ActionsでCloudflareのキャッシュをパージする - くらげになりたい。](https://www.memory-lovers.blog/entry/2021/07/06/110000)
+  - [AWS_SECRET_ACCESS_KEY を GitHub Actions secrets へ突っ込むのに疲れた俺達は](https://shogo82148.github.io/blog/2021/03/24/actions-aws-assume-role/)
 - インフラ
   - [gossとGitHub Actionsでインフラを自動テストした – クラウド・分散システム研究室](https://ja.tak-cslab.org/archives/786)
 - [Build monitor for Github Actions, Gitlab CI, Travis CI, Bitrise and Buddy! | Meercode](https://meercode.io/)
