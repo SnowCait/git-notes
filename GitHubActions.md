@@ -61,6 +61,8 @@
 - [GitHub Actions で失敗したテストをコメントで通知する Action の作成 - Quipper Product Team Blog](https://quipper.hatenablog.com/entry/2021/04/12/comment-failure-action)
 - [hmarr/auto-approve-action: 👍 GitHub Action for automatically approving GitHub pull requests](https://github.com/hmarr/auto-approve-action)
 - [int128/datadog-actions-metrics: Send GitHub Actions metrics to Datadog](https://github.com/int128/datadog-actions-metrics)
+- [dorny/paths-filter: Conditionally run actions based on files modified by PR, feature branch or pushed commits](https://github.com/dorny/paths-filter)
+- [MarceloPrado/has-changed-path: GitHub Action that saves time and money in monorepo environments](https://github.com/MarceloPrado/has-changed-path)
 
 ## 参考
 - 入門
