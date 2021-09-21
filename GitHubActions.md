@@ -64,6 +64,7 @@
 - [dorny/paths-filter: Conditionally run actions based on files modified by PR, feature branch or pushed commits](https://github.com/dorny/paths-filter)
 - [MarceloPrado/has-changed-path: GitHub Action that saves time and money in monorepo environments](https://github.com/MarceloPrado/has-changed-path)
 - [GitHub Actionsでテストのエラーをわかりやすく表示する - たけぞう瀕死ブログ](https://takezoe.hatenablog.com/entry/2021/09/12/122954)
+- [GitHub Actions で mkr を使う - Object.create(null)](https://susisu.hatenablog.com/entry/2021/09/21/160112)
 
 ## 参考
 - 入門
