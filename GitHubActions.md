@@ -65,6 +65,7 @@
 - [MarceloPrado/has-changed-path: GitHub Action that saves time and money in monorepo environments](https://github.com/MarceloPrado/has-changed-path)
 - [GitHub Actionsでテストのエラーをわかりやすく表示する - たけぞう瀕死ブログ](https://takezoe.hatenablog.com/entry/2021/09/12/122954)
 - [GitHub Actions で mkr を使う - Object.create(null)](https://susisu.hatenablog.com/entry/2021/09/21/160112)
+- [Pull Request に含まれる差分ファイルを Tree 形式で可視化する GitHub Action を作った - wadackel.me](https://blog.wadackel.me/2021/github-pr-diff-tree/)
 
 ## 参考
 - 入門
