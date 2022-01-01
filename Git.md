@@ -112,3 +112,6 @@ https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%
 ## Bisect
 - [git bisect で問題箇所を特定する - Qiita](https://qiita.com/usamik26/items/cce867b3b139ea5568a6)
 - [問題のあるコミットを特定する ( git bisect ) - Qiita](https://qiita.com/Shaula/items/1e13808946d8ca8bacbc)
+
+## Diff
+- [GitHubのプルリクエストの差分はどこと比較しているか？(git diffの".."と"..."の違い) - Qiita](https://qiita.com/m-yamazaki/items/e57e357116e95ae370dc)
