@@ -157,6 +157,7 @@
 ### Tips
 - [node.js で絶対パスや相対パスを取得する方法 npm __dirname](https://gist.github.com/uupaa/da42698d6b2d2cbb3cca)
 - [GitHub Actionsのinputが設定されてない時のcore.getInput()の戻りは「""」（空文字列）になる - nwtgck / Ryo Ota](https://scrapbox.io/nwtgck/GitHub_Actions%E3%81%AEinput%E3%81%8C%E8%A8%AD%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%AA%E3%81%84%E6%99%82%E3%81%AEcore.getInput()%E3%81%AE%E6%88%BB%E3%82%8A%E3%81%AF%E3%80%8C%22%22%E3%80%8D%EF%BC%88%E7%A9%BA%E6%96%87%E5%AD%97%E5%88%97%EF%BC%89%E3%81%AB%E3%81%AA%E3%82%8B)
+- [[Github Actions]repository_dispatchとworkflow_dispatchの使い分けや書き方の違いをまとめてみた | gkzz.dev](https://gkzz.dev/posts/repository-dispatch-vs-workflow-dispatch-in-github-actions/)
 
 ## Debug
 - [デバッグロギングの有効化 - GitHub Docs](https://docs.github.com/ja/free-pro-team@latest/actions/managing-workflow-runs/enabling-debug-logging)
