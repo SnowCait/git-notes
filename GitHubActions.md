@@ -68,6 +68,7 @@
 - [Pull Request に含まれる差分ファイルを Tree 形式で可視化する GitHub Action を作った - wadackel.me](https://blog.wadackel.me/2021/github-pr-diff-tree/)
 - [すべての CI の完了をチェックするGitHub Actionを公開しました | by riddle | Jan, 2022 | mixi developers](https://mixi-developers.mixi.co.jp/check-all-ci-completion-action-a72b00bf09cd)
 - [lirlia/check-all-ci-completion-action: This repository exposes GitHub Actions that check the completion of all CIs, as indicated by the GitHub check.](https://github.com/lirlia/check-all-ci-completion-action)
+- [k1LoW/octocov-action: GitHub Action for octocov](https://github.com/k1LoW/octocov-action)
 
 ## 参考
 - 入門
