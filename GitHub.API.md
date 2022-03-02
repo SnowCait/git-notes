@@ -11,3 +11,10 @@
 
 ## Branch
 - [GitHub APIを使ってブランチを新規作成する - ぷらすのブログ](https://blog.p1ass.com/posts/create-branch-using-github-api/)
+
+## 列挙型
+
+||説明|
+|---|---|
+|`mergeable`|コンフリクトしていないか|
+|`mergeStateStatus`|マージ可能か|
