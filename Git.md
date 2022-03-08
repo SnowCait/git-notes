@@ -80,6 +80,7 @@
   - [gitで大きいサイズのファイルを扱う時 - Qiita](https://qiita.com/akiko-pusu/items/2d65a54e9d2a6c7f9d13)
   - [gitでプッシュした時に「error: RPC failed; result=22, HTTP code = 411」と表示された時の対処 - Qiita](https://qiita.com/makotok7/items/f06542082c75cbf41c54)
 - [Gitリポジトリから容量の大きいファイルを履歴から抹消する | by eureka, Inc. | Eureka Engineering | Medium](https://medium.com/eureka-engineering/git%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%8B%E3%82%89%E5%AE%B9%E9%87%8F%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%84%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E5%B1%A5%E6%AD%B4%E3%81%8B%E3%82%89%E6%8A%B9%E6%B6%88%E3%81%99%E3%82%8B-b6bb526d670f)
+- [大きなGitリポジトリをクローンするときの工夫を図解します - DeNA Testing Blog](https://swet.dena.com/entry/2021/07/12/120000)
 
 ### 関連
 https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%A4%A7%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95
