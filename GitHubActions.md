@@ -119,6 +119,7 @@
 - Java
   - [Android: Github Actions での最適な Gradle ビルドキャッシュ戦略 - Qiita](https://qiita.com/irgaly/items/107824a1e27abe8805cb)
   - [Android: Github Actions で Gradle build daemon disappeared unexpectedly が発生するときの対処 - Qiita](https://qiita.com/irgaly/items/4c22d233caf8ec55512e)
+    - [Android: GitHub Actions で Gradle build daemon disappeared unexpectedly が発生しないようにメモリ使用量を調査する - Qiita](https://qiita.com/irgaly/items/c1acb9e06d95a471ae49)
 - Rust
   - [GitHub Actions best practices for Rust projects](https://www.fluvio.io/blog/2021/04/github-actions-best-practices/)
 - PlantUML
