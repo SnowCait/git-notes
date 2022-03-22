@@ -221,6 +221,7 @@
 - [philips-labs/github-runner/aws | Terraform Registry](https://registry.terraform.io/modules/philips-labs/github-runner/aws/latest)
 - [Scaling GitHub Action Runners | 040code](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 - [Terraform で Github Actions の Self Host Runner を作成する - joe tech blog](https://jade225.hateblo.jp/entry/2021/05/26/222554)
+- [actions/virtual-environments を我が手に！セルフビルドしてみた | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/33339/)
 
 ### Why self-hosted runners
 - [GitHub-hosted runners](https://docs.github.com/ja/free-pro-team@latest/actions/reference/specifications-for-github-hosted-runners) のスペックでは足りない
