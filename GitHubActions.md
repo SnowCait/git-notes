@@ -149,9 +149,9 @@
 - [GitHub Actionsにおけるサプライチェーン攻撃を介したリポジトリ侵害 - RyotaK's Blog](https://blog.ryotak.me/post/github-actions-supplychain/)
 
 ## OIDC
-- [GitHub Actions から OIDC 認証で各クラウドを Terraform デプロイする – AWS 編 │ Ether-Zone](https://www.ether-zone.com/deploy-terraform-for-each-cloud-with-oidc-authentication-from-github-actions-aws/)
-- [GitHub Actions から OIDC 認証で各クラウドを Terraform デプロイする – GCP 編 │ Ether-Zone](https://www.ether-zone.com/deploy-terraform-for-each-cloud-with-oidc-authentication-from-github-actions-gcp/)
 - [GitHub Actions から OIDC 認証で各クラウドを Terraform デプロイする – Terraform Cloud 編 │ Ether-Zone](https://www.ether-zone.com/deploy-terraform-for-each-cloud-with-oidc-authentication-from-github-actions-terraform-cloud/)
+  - [GitHub Actions から OIDC 認証で各クラウドを Terraform デプロイする – AWS 編 │ Ether-Zone](https://www.ether-zone.com/deploy-terraform-for-each-cloud-with-oidc-authentication-from-github-actions-aws/)
+  - [GitHub Actions から OIDC 認証で各クラウドを Terraform デプロイする – GCP 編 │ Ether-Zone](https://www.ether-zone.com/deploy-terraform-for-each-cloud-with-oidc-authentication-from-github-actions-gcp/)
 
 ## Action の作り方
 - [GitHub Actions の JavaScript Action を TypeScript で書いた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/15/212713)
