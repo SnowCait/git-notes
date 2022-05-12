@@ -20,6 +20,7 @@
 - [Work with GitHub Actions in your terminal with GitHub CLI - The GitHub Blog](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/)
   - [Actions Support · Issue #2889 · cli/cli](https://github.com/cli/cli/issues/2889)
 - [octokit/action.js: GitHub API client for GitHub Actions](https://github.com/octokit/action.js)
+- [How GitHub Actions handles CI/CD scale on short-running jobs with Ephemeral OS disk Reimage - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-compute-blog/how-github-actions-handles-ci-cd-scale-on-short-running-jobs/ba-p/3321114)
 
 ## 便利 Actions
 - [GitHub API Request · Actions · GitHub Marketplace](https://github.com/marketplace/actions/github-api-request)
