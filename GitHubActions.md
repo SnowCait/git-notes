@@ -147,6 +147,9 @@
 - Wiki
   - [GitHub ActionsからGitHub wikiを更新する - Islands in the byte stream](https://gfx.hatenablog.com/entry/2021/07/04/202004)
 
+## コスト
+- [Github actions のコスパについて考えた - たゆたふ。](https://hero.hatenablog.jp/entry/2022/05/github-action-cost-performance)
+
 ## Security
 - [GitHub Actionsにおけるサプライチェーン攻撃を介したリポジトリ侵害 - RyotaK's Blog](https://blog.ryotak.me/post/github-actions-supplychain/)
 
