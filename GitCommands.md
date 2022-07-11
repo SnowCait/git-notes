@@ -37,5 +37,9 @@ git ls-files --eol
 ## リポジトリの情報
 
 ```shell
+# ファイル数
+git ls-files | wc -l
+
+# 容量
 gh api repos/{owner}/{repo} --jq '.size'
 ```
