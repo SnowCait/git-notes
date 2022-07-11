@@ -117,3 +117,9 @@ https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%
 
 ## Diff
 - [GitHubのプルリクエストの差分はどこと比較しているか？(git diffの".."と"..."の違い) - Qiita](https://qiita.com/m-yamazaki/items/e57e357116e95ae370dc)
+
+## FSMonitor
+
+- [Improve Git monorepo performance with a file system monitor | The GitHub Blog](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/)
+- [Git - git-fsmonitor--daemon Documentation](https://git-scm.com/docs/git-fsmonitor--daemon)
+- [Git - api-simple-ipc Documentation](https://git-scm.com/docs/api-simple-ipc)
