@@ -102,6 +102,7 @@
   - [GitHub ActionsでTerraformを実行する - Qiita](https://qiita.com/keitakn/items/db2e9c68019594885ac4)
   - [Terraform で GitHub Actions の secret を管理する | はったりエンジニアの備忘録](https://blog.manabusakai.com/2021/07/manage-github-actions-secrets-with-terraform/)
   - [TerraformコードのセキュリティチェックでCheckovをGitHub Actionsに組み込んでみた - のぴぴのメモ](https://nopipi.hatenablog.com/entry/2022/06/15/012023)
+  - [GitHub Actionsでterraform planするworking directoryを動的に抽出する - 弥生開発者ブログ](https://tech-blog.yayoi-kk.co.jp/entry/2022/05/10/110000)
 - AWS
   - [【GitHub Actions】AWS Lambdaの環境変数を自動で更新する - りんごとバナナとエンジニア](https://udomomo.hatenablog.com/entry/2020/10/11/235541)
   - [GitHub Actionsに「強い」AWSの権限を渡したい ~作戦3 - AssumeRole with Google ID Token ~ - KAYAC engineers' blog](https://techblog.kayac.com/assume-role-with-google-id-token)
