@@ -149,6 +149,7 @@
 - [GitHub Actionsでデプロイを並列に実行させてCI/CDを高速化してみた | DevelopersIO](https://dev.classmethod.jp/articles/github-actions-parallel-deploy/)
 - Wiki
   - [GitHub ActionsからGitHub wikiを更新する - Islands in the byte stream](https://gfx.hatenablog.com/entry/2021/07/04/202004)
+- [GitHub Actions で複数行の文字列を output にセットする方法 | gotohayato.com](https://gotohayato.com/content/558/)
 
 ## コスト
 - [Github actions のコスパについて考えた - たゆたふ。](https://hero.hatenablog.jp/entry/2022/05/github-action-cost-performance)
