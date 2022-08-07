@@ -114,7 +114,6 @@
   - [AWS_SECRET_ACCESS_KEY を GitHub Actions secrets へ突っ込むのに疲れた俺達は](https://shogo82148.github.io/blog/2021/03/24/actions-aws-assume-role/)
 - インフラ
   - [gossとGitHub Actionsでインフラを自動テストした – クラウド・分散システム研究室](https://ja.tak-cslab.org/archives/786)
-- [Build monitor for Github Actions, Gitlab CI, Travis CI, Bitrise and Buddy! | Meercode](https://meercode.io/)
 - [Upptime](https://upptime.js.org/)
 - .NET
   - [GitHub Actionsで.NET CoreアプリをAzureにデプロイする - Qiita](https://qiita.com//ikuosaito1989/items/1baf18c739d332f41411)
@@ -150,6 +149,12 @@
 - Wiki
   - [GitHub ActionsからGitHub wikiを更新する - Islands in the byte stream](https://gfx.hatenablog.com/entry/2021/07/04/202004)
 - [GitHub Actions で複数行の文字列を output にセットする方法 | gotohayato.com](https://gotohayato.com/content/558/)
+
+## Monitoring
+
+- [Build monitor for Github Actions, Gitlab CI, Travis CI, Bitrise and Buddy! | Meercode](https://meercode.io/)
+- [CI/CDのデータを収集するCIAnalyzerの紹介](https://zenn.dev/kesin11/articles/cf08579949b8b0)
+- [Spendesk/github-actions-exporter: github-actions-exporter for prometheus](https://github.com/Spendesk/github-actions-exporter)
 
 ## コスト
 - [Github actions のコスパについて考えた - たゆたふ。](https://hero.hatenablog.jp/entry/2022/05/github-action-cost-performance)
