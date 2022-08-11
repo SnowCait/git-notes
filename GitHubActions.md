@@ -149,6 +149,8 @@
 - Wiki
   - [GitHub ActionsからGitHub wikiを更新する - Islands in the byte stream](https://gfx.hatenablog.com/entry/2021/07/04/202004)
 - [GitHub Actions で複数行の文字列を output にセットする方法 | gotohayato.com](https://gotohayato.com/content/558/)
+- Chrome Extensions
+  - [個人・チーム内でしか使わないようなプライベートなChrome 拡張機能をサクッと作る](https://zenn.dev/ichiki/articles/b78fedf1ad672c)
 
 ## Monitoring
 
