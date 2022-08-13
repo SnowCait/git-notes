@@ -26,7 +26,9 @@
 - [GitHub API Request · Actions · GitHub Marketplace](https://github.com/marketplace/actions/github-api-request)
 - [AWS for GitHub Actions](https://github.com/aws-actions)
 - [Azure/k8s-deploy: GitHub Action for deploying to Kubernetes clusters](https://github.com/Azure/k8s-deploy)
-- [GitHub Actions のワークフローをチェックする actionlint をつくった - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2021/07/11/214313)
+- Linter
+  - [GitHub Actions のワークフローをチェックする actionlint をつくった - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2021/07/11/214313)
+  - [mpalmer/action-validator: Tool to validate GitHub Action and Workflow YAML files](https://github.com/mpalmer/action-validator)
 - Slack
   - [Slack Incoming Webhook · Actions · GitHub Marketplace](https://github.com/marketplace/actions/slack-incoming-webhook)
   - [Slatify · Actions · GitHub Marketplace](https://github.com/marketplace/actions/slatify)
