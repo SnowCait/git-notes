@@ -159,6 +159,7 @@
 - [Build monitor for Github Actions, Gitlab CI, Travis CI, Bitrise and Buddy! | Meercode](https://meercode.io/)
 - [CI/CDのデータを収集するCIAnalyzerの紹介](https://zenn.dev/kesin11/articles/cf08579949b8b0)
 - [Spendesk/github-actions-exporter: github-actions-exporter for prometheus](https://github.com/Spendesk/github-actions-exporter)
+- [zx + Datadog + GitHub Actions でフロントエンドのコードベースの健全性を可視化する](https://zenn.dev/ryo_kawamata/articles/create-frontend-dashboard)
 
 ## コスト
 - [Github actions のコスパについて考えた - たゆたふ。](https://hero.hatenablog.jp/entry/2022/05/github-action-cost-performance)
