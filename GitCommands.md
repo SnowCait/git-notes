@@ -11,6 +11,7 @@ git branch --merged | grep -v \* | grep -v master | xargs git branch -d
 PowerShell
 ```powershell
 git for-each-ref --format '%(refname:short)' refs/heads --merged | ForEach-Object { If("develop","master" -notcontains $_) { git branch $_ -d } }
+git branch --merged | Select-String -NotMatch '\*' | % { git branch -d $_.ToString().Trim() }
 ```
 
 ### リモート
