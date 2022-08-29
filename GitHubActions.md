@@ -250,6 +250,7 @@
 - [Scaling GitHub Action Runners | 040code](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 - [Terraform で Github Actions の Self Host Runner を作成する - joe tech blog](https://jade225.hateblo.jp/entry/2021/05/26/222554)
 - [actions/virtual-environments を我が手に！セルフビルドしてみた | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/33339/)
+- [【GitHub Actions】EC2スポットインスタンスをSelf-hosted runnerとして使うための長い道のり - Qiita](https://qiita.com/nicco_mirai/items/3b981abcc7625ca38990#fnref-1)
 
 ### Why self-hosted runners
 - [GitHub-hosted runners](https://docs.github.com/ja/free-pro-team@latest/actions/reference/specifications-for-github-hosted-runners) のスペックでは足りない
