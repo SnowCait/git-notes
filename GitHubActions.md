@@ -163,6 +163,7 @@
 - [GitHub Actions で開発リードタイムとデプロイ数を計測してダッシュボードを作っている話 | mediba Creator × Engineer Blog](https://ceblog.mediba.jp/post/687662531120103424/github-actions-%E3%81%A7%E9%96%8B%E7%99%BA%E3%83%AA%E3%83%BC%E3%83%89%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%A8%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4%E6%95%B0%E3%82%92%E8%A8%88%E6%B8%AC%E3%81%97%E3%81%A6%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E8%A9%B1)
 - [GitHub Actionsでカバレッジを可視化する](https://zenn.dev/katzumi/articles/995df5abebc91e312167)
 - [rakutentech/code-coverage-dashboard: Code Coverage Tracking and Dashboard. Documentation below:](https://github.com/rakutentech/code-coverage-dashboard)
+- [GitHubActionsで効率化した結果を視覚化したい調査編 - Qiita](https://qiita.com/yusuke-sasaki/items/8b3fe9ad0cf759355d98)
 
 ## コスト
 - [Github actions のコスパについて考えた - たゆたふ。](https://hero.hatenablog.jp/entry/2022/05/github-action-cost-performance)
