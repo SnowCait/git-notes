@@ -4,7 +4,7 @@
 - [GitHub Desktop](https://desktop.github.com/)
 - [Git for Windows](https://gitforwindows.org/)
 - [Git Extensions](http://gitextensions.github.io/)
-- TortoiseGit
+- [TortoiseGit](https://tortoisegit.org/)
 - [Sourcetree](https://www.sourcetreeapp.com/)
 - [GitKraken](https://www.gitkraken.com/)
 - [Fork](https://git-fork.com/)
