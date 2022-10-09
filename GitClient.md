@@ -17,6 +17,14 @@
   - Visual Studio
   - JetBrains
 
+## GUI vs CUI
+
+| command | GUI | CUI |
+| - | :-: | :-: |
+| `add -p` | ⭕ | ❌ |
+| `rebase -i` | ⭕ | ❌ |
+| Performance | ❌ | ⭕ |
+
 ## コマンドライン
 - 基本
 - 何でもできる
