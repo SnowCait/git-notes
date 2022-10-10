@@ -165,6 +165,7 @@
 - [GitHub Actionsでカバレッジを可視化する](https://zenn.dev/katzumi/articles/995df5abebc91e312167)
 - [rakutentech/code-coverage-dashboard: Code Coverage Tracking and Dashboard. Documentation below:](https://github.com/rakutentech/code-coverage-dashboard)
 - [GitHubActionsで効率化した結果を視覚化したい調査編 - Qiita](https://qiita.com/yusuke-sasaki/items/8b3fe9ad0cf759355d98)
+- [Git branchの生存期間を計測するGithub Actionを作った](https://zenn.dev/gki/articles/346e7d3c9b2496)
 
 ## コスト
 - [Github actions のコスパについて考えた - たゆたふ。](https://hero.hatenablog.jp/entry/2022/05/github-action-cost-performance)
