@@ -178,6 +178,7 @@
   - [GitHub Actions から OIDC 認証で各クラウドを Terraform デプロイする – AWS 編 │ Ether-Zone](https://www.ether-zone.com/deploy-terraform-for-each-cloud-with-oidc-authentication-from-github-actions-aws/)
   - [GitHub Actions から OIDC 認証で各クラウドを Terraform デプロイする – GCP 編 │ Ether-Zone](https://www.ether-zone.com/deploy-terraform-for-each-cloud-with-oidc-authentication-from-github-actions-gcp/)
 - [Optimizing CI/CD Credential Hygiene - A Comparison of CI/CD Solutions - Cider Security Site](https://www.cidersecurity.io/blog/research/optimizing-ci-cd-credential-hygiene-a-comparison-of-ci-cd-solutions/)
+- [GitHub ActionsでIAMロールを使ってAWSのリソースにアクセスできる仕組みと実装方法について解説｜カルキチのブログ](https://karukichi-blog.netlify.app/blogs/github-actions-use-iam)
 
 ## Action の作り方
 - [GitHub Actions の JavaScript Action を TypeScript で書いた - はやくプログラムになりたい](https://rhysd.hatenablog.com/entry/2019/11/15/212713)
