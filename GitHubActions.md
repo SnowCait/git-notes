@@ -167,6 +167,7 @@
 - [GitHubActionsで効率化した結果を視覚化したい調査編 - Qiita](https://qiita.com/yusuke-sasaki/items/8b3fe9ad0cf759355d98)
 - [Git branchの生存期間を計測するGithub Actionを作った](https://zenn.dev/gki/articles/346e7d3c9b2496)
 - [Datadog・Lighthouse・GitHub ActionsでWebパフォーマンス定期観測してみた - Retty Tech Blog](https://engineer.retty.me/entry/2022/12/09/131028)
+- [ArtiomTr/jest-coverage-report-action: Track your code coverage in every pull request.](https://github.com/ArtiomTr/jest-coverage-report-action)
 
 ## コスト
 - [Github actions のコスパについて考えた - たゆたふ。](https://hero.hatenablog.jp/entry/2022/05/github-action-cost-performance)
