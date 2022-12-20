@@ -168,6 +168,7 @@
 - [Git branchの生存期間を計測するGithub Actionを作った](https://zenn.dev/gki/articles/346e7d3c9b2496)
 - [Datadog・Lighthouse・GitHub ActionsでWebパフォーマンス定期観測してみた - Retty Tech Blog](https://engineer.retty.me/entry/2022/12/09/131028)
 - [ArtiomTr/jest-coverage-report-action: Track your code coverage in every pull request.](https://github.com/ArtiomTr/jest-coverage-report-action)
+- [Mackerelのサービスメトリックを簡単に投稿するためのGitHub Actionsを作った - stefafafan の fa は3つです](https://blog.stenyan.jp/entry/2022/12/20/000000)
 
 ## コスト
 - [Github actions のコスパについて考えた - たゆたふ。](https://hero.hatenablog.jp/entry/2022/05/github-action-cost-performance)
