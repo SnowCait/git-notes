@@ -159,6 +159,7 @@
 - [Actions: Build Performance Insights · Issue #561 · github/roadmap](https://github.com/github/roadmap/issues/561)
 - [Build monitor for Github Actions, Gitlab CI, Travis CI, Bitrise and Buddy! | Meercode](https://meercode.io/)
 - [CI/CDのデータを収集するCIAnalyzerの紹介](https://zenn.dev/kesin11/articles/cf08579949b8b0)
+- [k1LoW/octocov: octocov is a toolkit for collecting code metrics (code coverage, code to test ratio and test execution time).](https://github.com/k1LoW/octocov)
 - [Spendesk/github-actions-exporter: github-actions-exporter for prometheus](https://github.com/Spendesk/github-actions-exporter)
 - [zx + Datadog + GitHub Actions でフロントエンドのコードベースの健全性を可視化する](https://zenn.dev/ryo_kawamata/articles/create-frontend-dashboard)
 - [GitHub Actions で開発リードタイムとデプロイ数を計測してダッシュボードを作っている話 | mediba Creator × Engineer Blog](https://ceblog.mediba.jp/post/687662531120103424/github-actions-%E3%81%A7%E9%96%8B%E7%99%BA%E3%83%AA%E3%83%BC%E3%83%89%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%A8%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4%E6%95%B0%E3%82%92%E8%A8%88%E6%B8%AC%E3%81%97%E3%81%A6%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E8%A9%B1)
@@ -169,6 +170,7 @@
 - [Datadog・Lighthouse・GitHub ActionsでWebパフォーマンス定期観測してみた - Retty Tech Blog](https://engineer.retty.me/entry/2022/12/09/131028)
 - [ArtiomTr/jest-coverage-report-action: Track your code coverage in every pull request.](https://github.com/ArtiomTr/jest-coverage-report-action)
 - [Mackerelのサービスメトリックを簡単に投稿するためのGitHub Actionsを作った - stefafafan の fa は3つです](https://blog.stenyan.jp/entry/2022/12/20/000000)
+- [DatadogとGitHub Actionsでサクッとチームのリリース数を可視化してみた - LIVESENSE ENGINEER BLOG](https://made.livesense.co.jp/entry/2022/12/23/100000)
 
 ## コスト
 - [Github actions のコスパについて考えた - たゆたふ。](https://hero.hatenablog.jp/entry/2022/05/github-action-cost-performance)
