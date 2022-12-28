@@ -8,3 +8,4 @@
 - [Git LFSのファイルDLをスキップする - Qiita](https://qiita.com/k7a/items/ff04bef890358aa11c8a)
 - [Git LFS でうまく clone や pull ができないときにバイナリファイルのダウンロードをスキップする | MSeeeeN | 大阪発 IT メディア by MSEN](https://mseeeen.msen.jp/skip-download-binary-files-with-git-lfs/)
 - [GitLFSで404エラーが出た - jubo的学習記録](https://useless-engineer.hatenablog.jp/entry/2018/12/25/010725)
+- [GitHub Actions で自前の LFS サーバーに向いているアセットもチェックアウトしたい | なつねこメモ](https://www.natsuneko.blog/entry/2022/12/29/clone-with-lfs-via-self-hosted-lfs-server-in-github-actions)
