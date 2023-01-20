@@ -123,3 +123,7 @@ https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md#%E5%B7%A8%E5%
 - [Improve Git monorepo performance with a file system monitor | The GitHub Blog](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/)
 - [Git - git-fsmonitor--daemon Documentation](https://git-scm.com/docs/git-fsmonitor--daemon)
 - [Git - api-simple-ipc Documentation](https://git-scm.com/docs/api-simple-ipc)
+
+## Analyze
+
+- [お手軽Gitリポジトリ分析 | 株式会社ヌーラボ(Nulab inc.)](https://nulab.com/ja/blog/nulab/analyze-a-git-repository/)
