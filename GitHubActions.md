@@ -153,6 +153,8 @@
 - [GitHub Actions で複数行の文字列を output にセットする方法 | gotohayato.com](https://gotohayato.com/content/558/)
 - Chrome Extensions
   - [個人・チーム内でしか使わないようなプライベートなChrome 拡張機能をサクッと作る](https://zenn.dev/ichiki/articles/b78fedf1ad672c)
+- Tailscale
+  - [Using GitHub Actions and Tailscale to build and deploy applications securely · Tailscale](https://tailscale.com/blog/2021-05-github-actions-and-tailscale/)
 
 ## Monitoring
 
