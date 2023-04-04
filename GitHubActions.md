@@ -276,6 +276,10 @@
 - リポジトリが大きいので毎回 clone すると遅い
 - GitHub Enterprise Server を使っている
 
+## Managed self-hosted runner
+
+- [BuildJet For GitHub Actions - Make Github Actions Faster](https://buildjet.com/for-github-actions)
+
 ## GitHub Actions API
 - [abskmj/hukum: An NPM module that displays Github Action progress in the terminal and aims to improve your development experience by printing status in realtime.](https://github.com/abskmj/hukum)
 
