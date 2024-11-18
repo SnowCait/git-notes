@@ -173,6 +173,9 @@
 - [ArtiomTr/jest-coverage-report-action: Track your code coverage in every pull request.](https://github.com/ArtiomTr/jest-coverage-report-action)
 - [Mackerelのサービスメトリックを簡単に投稿するためのGitHub Actionsを作った - stefafafan の fa は3つです](https://blog.stenyan.jp/entry/2022/12/20/000000)
 - [DatadogとGitHub Actionsでサクッとチームのリリース数を可視化してみた - LIVESENSE ENGINEER BLOG](https://made.livesense.co.jp/entry/2022/12/23/100000)
+- [GitHub上で構築するコードメトリクス計測基盤 / TECH STAND #9 GitHub - Speaker Deck](https://speakerdeck.com/k1low/tech-stand-number-9-github)
+- [GitHub ActionsとCodecovでテスト・カバレッジ計測を自動化、README.mdに結果をバッジ表示する。 #Python - Qiita](https://qiita.com/shinya_sun_sun/items/6c14e7145235713db434)
+- [Continuous Integration Visibility](https://docs.datadoghq.com/ja/continuous_integration/)
 
 ## コスト
 - [Github actions のコスパについて考えた - たゆたふ。](https://hero.hatenablog.jp/entry/2022/05/github-action-cost-performance)
